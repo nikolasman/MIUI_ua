@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <plurals name="notif_summary_active">
+        <item quantity="one">Загрузок: 1</item>
+        <item quantity="other">Загрузок: %d</item>
+     </plurals>
+     <plurals name="notif_summary_waiting">
+        <item quantity="one">В ожидании: 1</item>
+        <item quantity="other">В ожидании: %d</item>
+     </plurals>
+</resources>
