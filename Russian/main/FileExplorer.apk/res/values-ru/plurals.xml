@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="delete_files_confirm">
+        <item quantity="other">Удалить файлы (%1$d)</item>
+        <item quantity="zero">Удалить файлы (%1$d)</item>
+        <item quantity="one">Удалить файлы (%1$d)</item>
+        <item quantity="two">Удалить файлы (%1$d)</item>
+        <item quantity="few">Удалить файлы (%1$d)</item>
+        <item quantity="many">Удалить файлы (%1$d)</item>
+     </plurals>
+     <plurals name="delete_folders_confirm">
+        <item quantity="other">" и папки (%1$d)?"</item>
+        <item quantity="zero">" и папки (%1$d)?"</item>
+        <item quantity="one">" и папки (%1$d)?"</item>
+        <item quantity="two">" и папки (%1$d)?"</item>
+        <item quantity="few">" и папки (%1$d)?"</item>
+        <item quantity="many">" и папки (%1$d)?"</item>
+     </plurals>
+     <plurals name="directory_item_count">
+        <item quantity="one">Файлов: 1</item>
+        <item quantity="other">Файлов: %d</item>
+     </plurals>
+     <plurals name="numSelectedFile">
+        <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+     </plurals>
+     <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">Осталось загрузить: %1$d</item>
+        <item quantity="zero">Осталось загрузить: %1$d</item>
+        <item quantity="one">Осталось загрузить: %1$d</item>
+        <item quantity="two">Осталось загрузить: %1$d</item>
+        <item quantity="few">Осталось загрузить: %1$d</item>
+        <item quantity="many">Осталось загрузить: %1$d</item>
+     </plurals>
+     <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">Осталось загрузить: %1$d</item>
+        <item quantity="zero">Осталось загрузить: %1$d</item>
+        <item quantity="one">Осталось загрузить: %1$d</item>
+        <item quantity="two">Осталось загрузить: %1$d</item>
+        <item quantity="few">Осталось загрузить: %1$d</item>
+        <item quantity="many">Осталось загрузить: %1$d</item>
+     </plurals>
+</resources>
