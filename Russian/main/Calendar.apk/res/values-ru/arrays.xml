@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string-array name="availability">
+        <item>Занят</item>
+        <item>Доступен</item>
+        <item>Возможно</item>
+     </string-array>
+     <string-array name="buttons_list">
+        <item>День</item>
+        <item>Неделя</item>
+        <item>Месяц</item>
+        <item>Повестка дня</item>
+     </string-array>
+     <string-array name="change_response_labels">
+        <item>Только в этот раз</item>
+        <item>Все мероприятия в серии</item>
+     </string-array>
+     <string-array name="delete_repeating_labels">
+        <item>Только это мероприятие</item>
+        <item>Это и будущие мероприятия</item>
+        <item>Все мероприятия</item>
+     </string-array>
+     <string-array name="delete_repeating_labels_no_selected">
+        <item>Это и будущие мероприятия</item>
+        <item>Все мероприятия</item>
+     </string-array>
+     <string-array name="ordinal_labels">
+        <item>Перв.</item>
+        <item>Втор.</item>
+        <item>Трет.</item>
+        <item>Четверт.</item>
+        <item>Последн.</item>
+     </string-array>
+     <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Всегда</item>
+        <item>Когда звонок выключен</item>
+        <item>Никогда</item>
+     </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Без напоминания</item>
+        <item>0 минут</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>1 день</item>
+        <item>2 дня</item>
+        <item>1 неделя</item>
+    </string-array>
+     <string-array name="preferences_week_start_day_labels">
+        <item>По региону</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+     </string-array>
+     <string-array name="quick_response_defaults">
+        <item>Опоздаю на несколько минут</item>
+        <item>Буду там через 10 минут</item>
+        <item>Начинайте без меня</item>
+        <item>"Извините, я не могу этого сделать. Нужно пересмотреть расписание."</item>
+     </string-array>
+     <string-array name="reminder_methods_labels">
+        <item>Уведомление</item>
+        <item>Электронная почта</item>
+        <item>Сообщение</item>
+        <item>Будильник</item>
+     </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>Без напоминания</item>
+        <item>0 минут</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>1 день</item>
+        <item>2 дня</item>
+        <item>1 неделя</item>
+    </string-array>
+     <string-array name="response_labels1">
+        <item>(нет ответа)</item>
+        <item>Да</item>
+        <item>Возможно</item>
+        <item>Нет</item>
+     </string-array>
+     <string-array name="visibility">
+        <item>По умолчанию</item>
+        <item>Закрытое</item>
+        <item>Для всех</item>
+     </string-array>
+     <string-array name="widget_style_list">
+        <item>Черный</item>
+        <item>Белый</item>
+     </string-array>
+</resources>
