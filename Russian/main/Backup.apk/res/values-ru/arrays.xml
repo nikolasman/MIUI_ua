@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_type_desc">
+        <item>Данные</item>
+        <item>Приложения</item>
+        <item>Приложения и данные</item>
+    </string-array>
+    <string-array name="backup_dialog_content_type">
+        <item>Данные WLAN</item>
+        <item>Все приложения</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Контакты</item>
+        <item>Настройки Wi-Fi</item>
+        <item>Заметки</item>
+     </string-array>
+     <string-array name="cloud_data_label">
+        <item>Контакты</item>
+        <item>Список звонков</item>
+        <item>Сообщения</item>
+        <item>Настройки WLAN</item>
+        <item>Заметки</item>
+     </string-array>
+     <string-array name="cloud_sim_data">
+        <item>Список звонков</item>
+        <item>Сообщения</item>
+     </string-array>
+     <string-array name="font_size_scale">
+        <item>0.86</item>
+        <item>1.0</item>
+        <item>1.2</item>
+        <item>1.21</item>
+     </string-array>
+     <string-array name="system_data_label">
+        <item>Контакты</item>
+        <item>Список звонков</item>
+        <item>Сообщения</item>
+        <item>Сообщения мультимедиа</item>
+        <item>Системные настройки</item>
+        <item>Настройки WLAN</item>
+        <item>Макет главного экрана</item>
+        <item>Настройки сигналов</item>
+        <item>Заметки</item>
+        <item>Не беспокоить</item>
+        <item>Аккаунт</item>
+     </string-array>
+     <string-array name="system_package_label">
+        <item>Браузер</item>
+        <item>Права доступа</item>
+        <item>Камера</item>
+        <item>Использование данных</item>
+        <item>Данные погоды</item>
+        <item>Погода</item>
+     </string-array>
+</resources>
