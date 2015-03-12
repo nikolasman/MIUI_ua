@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_type">
+        <item>Ясно</item>
+        <item>Местами облачность</item>
+        <item>Сплошная облачность</item>
+        <item>Туманно</item>
+        <item>Сильный дождь</item>
+        <item>Ливень</item>
+        <item>Ливень с ураганом</item>
+        <item>Гроза</item>
+        <item>Дождь</item>
+        <item>Сильный дождь</item>
+        <item>Умеренный дождь</item>
+        <item>Небольшой дождик</item>
+        <item>Снег с дождем</item>
+        <item>Метель</item>
+        <item>Снег</item>
+        <item>Снегопад</item>
+        <item>Умеренный снег</item>
+        <item>Небольшой снежок</item>
+        <item>Песочная буря</item>
+        <item>Песочный шторм</item>
+        <item>Песок</item>
+        <item>Ветренно</item>
+        <item>Град</item>
+        <item>Пыль</item>
+        <item>Дымка</item>
+        <item>Ледяной дождь</item>
+        <item>Нет данных</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Очень слабый</item>
+        <item>Слабый</item>
+        <item>Средний</item>
+        <item>Сильный</item>
+        <item>Очень сильный</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Северный</item>
+        <item>С-Восточный</item>
+        <item>Восточный</item>
+        <item>Ю-Восточный</item>
+        <item>Южный</item>
+        <item>Ю-Западный</item>
+        <item>Западный</item>
+        <item>С-Западный</item>
+    </string-array>
+    <string-array name="moon_desc">
+        <item>Новолуние</item>
+        <item>Растущий полумесяц</item>
+        <item>Первая четверть</item>
+        <item>Растущая луна</item>
+        <item>Полная луна</item>
+        <item>Убывающая луна</item>
+        <item>Последняя четверть</item>
+        <item>Убывающий полумесяц</item>
+        <item>Темная луна</item>
+    </string-array>
+</resources>
