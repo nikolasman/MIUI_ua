@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="altitude_title">Высота</string>
+    <string name="altitude_unit">м</string>
+    <string name="app_label">Компас</string>
+    <string name="calibrate_altitude">Калибровка</string>
+    <string name="calibrate_failed">Ошибка калибровки высоты</string>
+    <string name="calibrate_failed_no_location">Ошибка калибровки. Невозможно получить данные.</string>
+    <string name="calibrate_failed_timeout">Ошибка калибровки. Сервер не отвечает.</string>
+    <string name="calibrate_success">Калибровка завершена</string>
+    <string name="cannot_get_location">Невозможно получить данные о вашем местоположении</string>
+    <string name="dialog_calibrat_altitude">Калибровка через интернет…</string>
+    <string name="dialog_title_no_network">Сеть не найдена. Подключитесь через Wi-Fi или включите мобильный интернет.</string>
+    <string name="direction_east">В</string>
+    <string name="direction_north">С</string>
+    <string name="direction_north_east">СВ</string>
+    <string name="direction_north_west">СЗ</string>
+    <string name="direction_south">Ю</string>
+    <string name="direction_south_east">ЮВ</string>
+    <string name="direction_south_west">ЮЗ</string>
+    <string name="direction_west">З</string>
+    <string name="do_not_show_next_time">Не напоминать</string>
+    <string name="getting_location">Получение координат…</string>
+    <string name="guide_toast">Удалитесь от возможных магнитных помех.\nВыполните калибровку, вращая телефон так, как показано на анимации.</string>
+    <string name="latitude">Широта</string>
+    <string name="location_east">Восточная\nдолгота</string>
+    <string name="location_enable">ОК</string>
+    <string name="location_enable_later">Отмена</string>
+    <string name="location_enabled">Сервисы определения местоположения включены</string>
+    <string name="location_north">Северная\nширота</string>
+    <string name="location_not_enabled_summary">Включить сервисы определения местоположения?</string>
+    <string name="location_not_enabled_title">Местоположение</string>
+    <string name="location_south">Южная\nширота</string>
+    <string name="location_west">Западная\nдолгота</string>
+    <string name="longitude">Долгота</string>
+    <string name="menu_calibrate">Калибровка компаса</string>
+    <string name="mobiledata_alert_dialog_message">Разрешить доступ в интернет для калибровки?</string>
+    <string name="mobiledata_alert_dialog_title">Использование данных</string>
+    <string name="pressure_title">Давление</string>
+    <string name="pressure_unit">гПа</string>
+    <string name="shake_enter_tip">Потрясите для калибровки</string>
+    <string name="using_camera_confirm_cancel">Отмена</string>
+    <string name="using_camera_confirm_message">Разрешить приложению использовать камеру?</string>
+    <string name="using_camera_confirm_ok">ОК</string>
+    <string name="using_camera_confirm_title">Разрешение на доступ</string>
+</resources>
