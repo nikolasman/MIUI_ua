@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Xposed_summary">Дополнительные сервисы MIUI</string>
+    <string name="Xposed_title">Xposed</string>
+    <string name="a1">Экран</string>
+    <string name="a2">Приложения</string>
     <string name="about_settings">О телефоне</string>
     <string name="about_settings_summary">Просмотр юридической информации, состояния планшетного ПК и версии ПО.</string>
     <string name="ac_enable_title">Защита</string>
@@ -735,6 +739,7 @@
     <string name="device_name_usage_point">Имя вашего устройства, которое будет отображаться при различных соединениях.</string>
     <string name="device_picker">Выбор устройства Bluetooth</string>
     <string name="device_sd_memory">Внешняя память</string>
+    <string name="device_security_settings_title">Безопасность</string>
     <string name="device_status">Общая информация</string>
     <string name="device_status_activity_title">Общая информация</string>
     <string name="device_status_summary">Номер телефона, уровень сигнала и т.д.</string>
@@ -860,6 +865,7 @@
     <string name="enable_adb">Отладка по USB</string>
     <string name="enable_adb_summary">Включить режим отладки при подключении к компьютеру по USB</string>
     <string name="enable_compatibility">Масштабировать приложения</string>
+    <string name="enable_crypt_keeper_encrypt">Использовать шифрование</string>
     <string name="enable_drive_mode">Включить режим управления</string>
     <string name="enable_mobile_data_when_opening_hotspot">Включить мобильный интернет?</string>
     <string name="enable_opengl_traces_title">Трассировка OpenGL</string>
@@ -972,6 +978,8 @@
     <string name="global_font_change_title">Измените размер шрифта</string>
     <string name="global_locale_change_title">Измените язык</string>
     <string name="google_backup_section_title">Резервное копирование Google</string>
+    <string name="greenify_summary">Фоновые приложения</string>
+    <string name="greenify_title">Greenify</string>
     <string name="gsm_to_wifi_connect_type_title">GSM-&gt;Wi-Fi</string>
     <string name="handy_mode">Режим \"Одной руки\"</string>
     <string name="handy_mode_enable">Режим \"Одной руки\"</string>
@@ -1007,6 +1015,8 @@
     <string name="high_performance_notif_title">Режим производительности активен</string>
     <string name="high_performance_title">Используйте режим производительности для более комфортного игрового процесса</string>
     <string name="history_details_title">Подробная история</string>
+    <string name="holiestar_summary">Звонки и SMS уведомления вспышкой</string>
+    <string name="holiestar_title">Уведомления вспышкой</string>
     <string name="home_app_uninstall_button">Удалить приложение</string>
     <string name="home_key">Клавиша \"Домой\"</string>
     <string name="home_settings">Домашние настройки</string>
@@ -1070,6 +1080,8 @@
     <string name="keyboard_layout_picker_title">Раскладка клавиатуры</string>
     <string name="keyboard_settings_category">Клавиатура и способы ввода</string>
     <string name="keyboard_settings_title">Клавиатура Android</string>
+    <string name="kqstone_summary">Изменение цвета статусбара</string>
+    <string name="kqstone_title">Immersed Statusbar</string>
     <string name="language_keyboard_settings_title">Язык и ввод</string>
     <string name="language_picker_title">Язык</string>
     <string name="language_settings">Язык и ввод</string>
@@ -1107,6 +1119,8 @@
     <string name="local_backup_section_summary">Резервное копирование данных</string>
     <string name="local_backup_section_title">Локальная резервная копия</string>
     <string name="locale_default">По умолчанию</string>
+    <string name="location_access_off">Выкл.</string>
+    <string name="location_access_on">Вкл.</string>
     <string name="location_access_summary">Приложения, которые запрашивают доступ к вашему местоположению.</string>
     <string name="location_access_title">Доступ к местоположению</string>
     <string name="location_agps_apn_choose_dialog_title">Тип APN</string>
@@ -1635,6 +1649,8 @@
     <string name="privacy_mode_dialog_title">Режим \"Гость\"</string>
     <string name="privacy_mode_enable_sum">Скрыть журнал вызовов, сообщения и другую личную информацию.</string>
     <string name="privacy_mode_enable_title">Режим \"Гость\"</string>
+    <string name="privacy_mode_summary">Скрытие данных от пользователя</string>
+    <string name="privacy_mode_title">Дозволи</string>
     <string name="privacy_protect_title">Защита</string>
     <string name="privacy_relative">Приватные разрешения</string>
     <string name="privacy_settings">Восстановление и сброс</string>
@@ -2293,6 +2309,8 @@
     <string name="usb_tethering_storage_active_subtext">Невозможно подключиться при использовании USB-накопителя</string>
     <string name="usb_tethering_unavailable_subtext">USB-подключения не обнаружено</string>
     <string name="usb_title">USB</string>
+    <string name="usb_way">Тип USB подключения</string>
+    <string name="usb_way1">Выбор типа подключения накопителя</string>
     <string name="use_default_tts_settings_summary">Настройки по умолчанию переопределяют настройки приложений</string>
     <string name="use_default_tts_settings_title">Только мои настройки</string>
     <string name="use_location_summary">Разрешить Google использовать данные о местоположении для улучшения поиска и работы других служб.</string>
@@ -2374,6 +2392,8 @@
     <string name="vibrate_input_devices_summary">Перенаправить вибро на подключенный игровой контроллер</string>
     <string name="vibrate_when_ringing_title">В обычном режиме</string>
     <string name="view_install_log">Показать журнал</string>
+    <string name="vipercn_summary">Эквалайзер</string>
+    <string name="vipercn_title">Viper</string>
     <string name="virus_scan">Антивирус</string>
     <string name="virus_scan_app_continue">Продолжить</string>
     <string name="virus_scan_app_find_risk">Найдено угроз: %d</string>
