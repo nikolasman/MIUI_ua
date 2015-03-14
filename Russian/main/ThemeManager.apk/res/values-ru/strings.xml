@@ -15,7 +15,7 @@
     <string name="backup_preference_title">Резервное копирование</string>
     <string name="backup_theme_dialog_message">Создать резервную копию темы?</string>
     <string name="backup_theme_dialog_ok">ОК</string>
-    <string name="backup_theme_fail_trial_rights_message">"Невозможно создать бэкап демонстрационной темы"</string>
+    <string name="backup_theme_fail_trial_rights_message">"Невозможно создать резервную копию демонстрационной темы"</string>
     <string name="backup_theme_name">Моя тема</string>
     <string name="backup_theme_progress_message">Сохранение…</string>
     <string name="backup_theme_success_message">Резервное копирование завершено</string>

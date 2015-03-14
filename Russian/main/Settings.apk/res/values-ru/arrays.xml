@@ -583,10 +583,10 @@
         <item>Быстрее</item>
     </string-array>
     <string-array name="whetstone_level_entries">
-        <item>Выключено</item>
-        <item>Низкий</item>
-        <item>Средний</item>
-        <item>Высокий</item>
+        <item>Выключена</item>
+        <item>Низкая</item>
+        <item>Средняя</item>
+        <item>Высокая</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4.5 дюйма</item>

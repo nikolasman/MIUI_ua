@@ -185,7 +185,7 @@
     <string name="sim_not_ready">SIM карта не готова</string>
     <string name="sms_delete_hint">Удалить все заблокированные сообщения от этого номера?</string>
     <string name="sms_delete_title">Удалить сообщение</string>
-    <string name="sms_smart_engine_update">Автоматически обновлять SMS фильтры</string>
+    <string name="sms_smart_engine_update">Обновлять SMS фильтры</string>
     <string name="special_number_group">Блокировать специальные номера</string>
     <string name="st_advanced_setting_group">Дополнительно</string>
     <string name="st_antispam_black_adress_add">Выбрать регион</string>

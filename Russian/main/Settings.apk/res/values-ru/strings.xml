@@ -122,7 +122,7 @@
     <string name="apn_settings">Точки доступа</string>
     <string name="apn_type">Тип APN</string>
     <string name="apn_user">Имя пользователя</string>
-    <string name="app_backup">Бэкап</string>
+    <string name="app_backup">Резервное копирование</string>
     <string name="app_disable_dlg_text">Отключение встроенной службы может нарушить работу других приложений.</string>
     <string name="app_disable_dlg_title">Отключить приложение?</string>
     <string name="app_disable_notifications_dlg_text">Если выключить уведомления для этого приложения, вы можете пропустить важное уведомление или обновление.</string>
@@ -202,7 +202,7 @@
     <string name="backup_lock_settings_picker_title">Дополнительный способ блокировки</string>
     <string name="backup_pw_cancel_button_text">Отмена</string>
     <string name="backup_pw_set_button_text">Сохранить пароль</string>
-    <string name="backup_section_title">Бэкап и восстановление</string>
+    <string name="backup_section_title">Резервное копированиеи восстановление</string>
     <string name="band_mode_failed">Сбой</string>
     <string name="band_mode_loading">Загрузка списка частот…</string>
     <string name="band_mode_set">Настроить</string>
@@ -912,8 +912,8 @@
     <string name="font_size_large">Большой</string>
     <string name="font_size_medium">Средний</string>
     <string name="font_size_normal">Нормальный</string>
-    <string name="font_size_preview">This is font example</string>
-    <string name="font_size_preview_text">This is font example</string>
+    <string name="font_size_preview">Это пример текста</string>
+    <string name="font_size_preview_text">Это пример текста</string>
     <string name="font_size_save">ОК</string>
     <string name="font_size_small">Мелкий</string>
     <string name="font_size_summary">Настройка размера шрифта системы</string>
@@ -971,7 +971,7 @@
     <string name="global_change_warning">Настройки будут изменены для всех пользователей устройства</string>
     <string name="global_font_change_title">Измените размер шрифта</string>
     <string name="global_locale_change_title">Измените язык</string>
-    <string name="google_backup_section_title">Бэкап Google</string>
+    <string name="google_backup_section_title">Резервное копирование Google</string>
     <string name="gsm_to_wifi_connect_type_title">GSM-&gt;Wi-Fi</string>
     <string name="handy_mode">Режим \"Одной руки\"</string>
     <string name="handy_mode_enable">Режим \"Одной руки\"</string>
@@ -1097,7 +1097,7 @@
     <string name="link_speed_label">Скорость:</string>
     <string name="local_auto_backup_off">Выкл</string>
     <string name="local_auto_backup_on">Вкл</string>
-    <string name="local_auto_backup_section_title">Бэкап по расписанию</string>
+    <string name="local_auto_backup_section_title">Резервное копирование по расписанию</string>
     <string name="local_backup_password_summary_change">Выберите этот параметр, чтобы изменить или удалить пароль для резервного копирования</string>
     <string name="local_backup_password_summary_none">Полные резервные копии в настоящее время не защищены</string>
     <string name="local_backup_password_title">Пароль для резервного копирования</string>
@@ -1105,7 +1105,7 @@
     <string name="local_backup_password_toast_success">Установлен новый пароль</string>
     <string name="local_backup_password_toast_validation_failure">Ошибка установки пароля</string>
     <string name="local_backup_section_summary">Резервное копирование данных</string>
-    <string name="local_backup_section_title">Локальный бэкап</string>
+    <string name="local_backup_section_title">Локальная резервная копия</string>
     <string name="locale_default">По умолчанию</string>
     <string name="location_access_summary">Приложения, которые запрашивают доступ к вашему местоположению.</string>
     <string name="location_access_title">Доступ к местоположению</string>
@@ -2113,7 +2113,7 @@
     <string name="sync_wifi_only">Только по Wi-Fi</string>
     <string name="system">Система</string>
     <string name="system_app_settings">Системные приложения</string>
-    <string name="system_backup_section_title">Бэкап системы</string>
+    <string name="system_backup_section_title">Резервное копирование системы</string>
     <string name="system_package">Системные обновления нельзя установить на внешнем носителе</string>
     <string name="system_storage">Внутренняя память</string>
     <string name="system_update_settings_list_item_summary" />

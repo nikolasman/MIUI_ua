@@ -21,20 +21,20 @@
         <item quantity="one">"%d приложению не позволен автозапуск"</item>
     </plurals>
     <plurals name="hints_apps_perm_count">
-        <item quantity="other">%d разрешений</item>
-        <item quantity="one">%d разрешение</item>
+        <item quantity="other">Разрешений: %d</item>
+        <item quantity="one">Разрешений: %d</item>
     </plurals>
     <plurals name="hints_permission_apps_count">
         <item quantity="other">%d прил.</item>
         <item quantity="one">%d прил.</item>
     </plurals>
     <plurals name="hints_get_root_enable_title">
-        <item quantity="other">%d имеют права суперпользователя</item>
-        <item quantity="one">%d имеет права суперпользователя</item>
+        <item quantity="other">С правами суперпользователя: %d</item>
+        <item quantity="one">С правами суперпользователя: %d</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
-        <item quantity="other">"%d не имеют права суперпользователя"</item>
-        <item quantity="one">"%d не имеет права суперпользователя"</item>
+        <item quantity="other">"Без прав суперпользователя: %d"</item>
+        <item quantity="one">"Без прав суперпользователя: %d"</item>
     </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Обновления доступны для %d прил.</item>

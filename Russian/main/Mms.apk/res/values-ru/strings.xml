@@ -510,7 +510,7 @@
     <string name="timed_message_to">для</string>
     <string name="title_collapse_sp_messages">Группа сервисных сообщений</string>
     <string name="title_date_type">Дата и время</string>
-    <string name="title_show_sms_template">Проверка SMS на коды подтверждения</string>
+    <string name="title_show_sms_template">Коды подтверждения</string>
     <string name="title_timed_message_dialog">Время отправки сообщения</string>
     <string name="to_address_label">"Кому: "</string>
     <string name="to_count">Всего: %d</string>

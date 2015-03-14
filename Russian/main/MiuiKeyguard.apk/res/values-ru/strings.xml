@@ -2,7 +2,7 @@
 <resources>
     <string name="click_to_enter_text">Нажмите для просмотра</string>
     <string name="confirm_pin_msg">Введите PIN снова</string>
-    <string name="default_lockscreen_unlock_hint_text">Разблокировать</string>
+    <string name="default_lockscreen_unlock_hint_text">Вверх для разблокировки</string>
     <string name="delete">Сброс</string>
     <string name="emergency_call_string">Экстренный вызов</string>
     <string name="experimental_try_string">Повторить</string>
