@@ -255,4 +255,15 @@
     <string name="wifi">Wi-Fi</string>
     <string name="wifi_disconnected">Сеть Wi-Fi недоступна</string>
     <string name="wifi_sync">Синхронизация по Wi-Fi</string>
+    <string name="antispam_sync">Черный список</string>
+    <string name="calendar_sync">Календарь</string>
+    <string name="click_to_enabled">Нажмите для синхронизации.</string>
+    <string name="cloudservice_new_sync">Синхронизация %s с Mi Cloud</string>
+    <string name="find_device_status_ok_international">Найдите ваше устройство в любом месте на www.mi.com/micloud</string>
+    <string name="micloud_main_sync_init">Получение информации</string>
+    <string name="micloud_setting_antispam_summary">Исключения для черного списка.</string>
+    <string name="micloud_single_dspt">Используйте Mi Облако для синхронизации данных, поиска устройства и обмена информацией с друзьями</string>
+    <string name="micloud_space_duokan_detail">Управляйте Duokan содержимым используя приложение Duokan.</string>
+    <string name="micloud_space_duokan_title">Duokan</string>
+    <string name="sync_dspt_provision3">". Вы можете включить и выключить эту функцию в Настройках."</string>
 </resources>

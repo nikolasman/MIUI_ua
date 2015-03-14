@@ -554,4 +554,5 @@
     <string name="warning_show">Отоправить %ds</string>
     <string name="xiaomi_service_number">Сервисный номер</string>
     <string name="yes">ОК</string>
+    <string name="block_messaging_entry_title">Заблокированные SMS</string>
 </resources>

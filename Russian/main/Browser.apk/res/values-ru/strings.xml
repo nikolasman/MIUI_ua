@@ -782,4 +782,5 @@
      <string name="webview_find_on_page">Найти на странице</string>
      <string name="webviewchromium_private_browsing_warning">"Функция не поддерживается на этой версии Android."</string>
      <string name="week_picker_dialog_title">Выбрать неделю</string>
+     <string name="action_menu_text_fullscreen">Полный экран</string>
 </resources>

@@ -327,4 +327,6 @@
     <string name="wifi_state">Статус Wi-Fi</string>
     <string name="xiaomi_account">Аккаунт Xiaomi</string>
     <string name="yes">Да</string>
+    <string name="action_mode_deselect_all">Снять все</string>
+    <string name="action_mode_select_all">Отметить все</string>
 </resources>

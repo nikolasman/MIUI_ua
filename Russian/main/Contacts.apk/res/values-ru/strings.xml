@@ -1169,4 +1169,5 @@
     <string name="yellowpage_search_the_yellowpage">Поиск сервиса желтых страниц</string>
     <string name="yellowpage_user_profile">Профиль</string>
     <string name="zero_items_selected">Выберите контакты</string>
+    <string name="resource_tab_to_view">Посмотреть</string>
 </resources>

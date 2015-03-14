@@ -108,4 +108,12 @@
     <string name="widget_content_loading">Загрузка…</string>
     <string name="widget_havenot_content">Нет заметок, нажмите сюда, чтобы создать заметку.</string>
     <string name="widget_under_privacy_mode">Невозможно просмотреть заметки в режиме \"Гость\"</string>
+         <string name="welcome_note_for_cm">"И много сервисов!
+  - Синхронизация с Mi Cloud
+  - Сохранение при выходе
+  - Установка напоминаний
+
+Для большей информации посетите
+http://www.miui.com/forum.php?lang=1
+"</string>
 </resources>

@@ -341,4 +341,6 @@
     <string name="wallpaper_set_as_destop">Применить на рабочий стол</string>
     <string name="wallpaper_set_as_lockscreen">Применить на экран блокировки</string>
     <string name="wallpaper_settings">Настройки обоев</string>
+    <string name="gift_received_notification_title">%s дал вам тему.</string>
+    <string name="resource_tab_to_view">Просмотр.</string>
 </resources>
