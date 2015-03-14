@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cache_sort_type">
+        <item>Размер</item>
+        <item>Имя</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Размер</item>
+        <item>Имя</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Частота использования</item>
+        <item>Размер</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>Каждый день</item>
+        <item>Каждые 3 дня</item>
+        <item>Каждые 7 дней</item>
+    </string-array>
+    <string-array name="auto_clean_size">
+        <item>100MB</item>
+        <item>300MB</item>
+        <item>500MB</item>
+        <item>1GB</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>Разрешение с уведомлением</item>
+        <item>Очистка в фоне</item>
+        <item>Уведомление после очистки</item>
+    </string-array>
+    <string-array name="auto_memory_clean">
+        <item>Через 1 минуту</item>
+        <item>Через 5 минут</item>
+        <item>Через 10 минут</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Через 1 минуту</item>
+        <item>Через 5 минут</item>
+        <item>Через 10 минут</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Производительность</item>
+        <item>Баланс</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Выключить</item>
+        <item>Включить</item>
+        <item>"Не изменять"</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Без вибрации</item>
+        <item>В режиме Без звука</item>
+        <item>Всегда вибрировать</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Один раз</item>
+        <item>Каждый день</item>
+        <item>Рабочие дни</item>
+        <item>Выходные</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Один раз</item>
+        <item>Каждый день</item>
+        <item>Дни недели</item>
+        <item>Другое</item>
+    </string-array>
+    <integer-array name="alarm_repeat_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="alarm_repeat_type_no_workdays_values">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+</resources>

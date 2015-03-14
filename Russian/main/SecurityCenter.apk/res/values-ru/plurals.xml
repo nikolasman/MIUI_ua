@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d дн. "</item>
+        <item quantity="one">"%d день "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d час. "</item>
+        <item quantity="one">"%d ч "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d мин. "</item>
+        <item quantity="one">"%d мин "</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d в автозапуске</item>
+        <item quantity="one">%d в автозапуске</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">"%d приложениям не позволен автозапуск"</item>
+        <item quantity="one">"%d приложению не позволен автозапуск"</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d разрешений</item>
+        <item quantity="one">%d разрешение</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d прил.</item>
+        <item quantity="one">%d прил.</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d имеют права суперпользователя</item>
+        <item quantity="one">%d имеет права суперпользователя</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">"%d не имеют права суперпользователя"</item>
+        <item quantity="one">"%d не имеет права суперпользователя"</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">Обновления доступны для %d прил.</item>
+        <item quantity="one">Обновление доступно для %d прил.</item>
+    </plurals>
+</resources>
