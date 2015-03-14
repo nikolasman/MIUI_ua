@@ -1650,7 +1650,7 @@
     <string name="privacy_mode_enable_sum">Скрыть журнал вызовов, сообщения и другую личную информацию.</string>
     <string name="privacy_mode_enable_title">Режим \"Гость\"</string>
     <string name="privacy_mode_summary">Скрытие данных от пользователя</string>
-    <string name="privacy_mode_title">Дозволи</string>
+    <string name="privacy_mode_title">Доступ</string>
     <string name="privacy_protect_title">Защита</string>
     <string name="privacy_relative">Приватные разрешения</string>
     <string name="privacy_settings">Восстановление и сброс</string>
