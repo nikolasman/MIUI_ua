@@ -47,7 +47,7 @@
     <string name="privacy_tip_title">Использовать Xunlei Ускоритель?</string>
     <string name="root_downloads">Загрузки</string>
     <string name="task_already_exist">Задача уже существует</string>
-    <string name="wifi_recommended_body" formatted="false">Если начать сейчас эту загрузку (%s ), это может сократить срок службы батареи и/или привести к чрезмерному использованию мобильных данных и расходам на связь в соответствии с вашим тарифным планом.\n\nНажмите %s, чтобы начать эту загрузку в следующий раз, когда подключитесь к сети Wi-Fi.
+    <string name="wifi_recommended_body" formatted="false">Если начать сейчас эту загрузку (%s ), это может сократить срок службы батареи и/или привести к чрезмерному использованию мобильных данных и расходам на связь в соответствии с вашим тарифным планом.\n\nНажмите %s, чтобы начать эту загрузку в следующий раз, когда подключитесь к сети Wi-Fi.</string>
     <string name="wifi_recommended_title">Загрузки</string>
     <string name="wifi_required_body" formatted="false">"Вы должны использовать Wi-Fi для завершения %s загрузки.</string>
     <string name="wifi_required_title">Слишком большой файл. Подключитесь к Wi-Fi</string>
