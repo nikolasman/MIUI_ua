@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-                <string name="sound_category_calls_and_notification_title">Рингтон и уведомления</string>
-                <string name="status_bar_toggle_arrangement">Сортировать переключатели</string>
-                <string name="view_install_log">Показать журнал</string>
-            <string name="preferred_launcher_title">Выбор рабочего стола</string>
-            <string name="search_launcher">Рабочий стол</string>
-        <string name="music_dirac_mode_piston_youth">Mi пистоны-youth</string>
     <string name="about_settings">О телефоне</string>
     <string name="about_settings_summary">Просмотр юридической информации, состояния планшетного ПК и версии ПО.</string>
     <string name="ac_enable_title">Защита</string>
@@ -1411,6 +1405,7 @@
     <string name="music_dirac_mode_piston_100">Mi пистоны</string>
     <string name="music_dirac_mode_piston_2">Mi пистоны-2</string>
     <string name="music_dirac_mode_piston_basic">Обычные пистоны</string>
+    <string name="music_dirac_mode_piston_youth">Mi пистоны-youth</string>
     <string name="music_equalizer">Эквалайзер</string>
     <string name="music_equalizer_summary">Индивидуальные установки для различных типов музыки</string>
     <string name="music_headphone_settings">Тип наушников</string>
@@ -1426,7 +1421,7 @@
     <string name="music_headset_calibrate_volume_up">Увеличение громкости</string>
     <string name="music_headset_calibrate_wrong_key">Неверная клавиша</string>
     <string name="music_headset_mode_music">Переключение треков</string>
-    <string name="music_headset_mode_settings">Headphone remote buttons</string>
+    <string name="music_headset_mode_settings">Кнопка гарнитуры</string>
     <string name="music_headset_mode_volume">Регулировка громкости</string>
     <string name="music_headset_no_contected">Гарнитура не подключена</string>
     <string name="music_headset_settings">Гарнитура</string>
@@ -1601,6 +1596,7 @@
     <string name="preferred_application_warning_replace">Заменить</string>
     <string name="preferred_application_warning_title">Замена приложения \"%s\"</string>
     <string name="preferred_application_warning_use_system">Отмена</string>
+    <string name="preferred_launcher_title">Выбор рабочего стола</string>
     <string name="preferred_media_app_summary">Выберите музыкальный плеер</string>
     <string name="preferred_sms_settings">Это приложение будет установлено по умолчанию для создания и чтения сообщений.</string>
     <string name="preferred_sms_title">Приложение сообщений по умолчанию</string>
@@ -1874,6 +1870,7 @@
     <string name="sdcard_unmount">Извлечь карту памяти</string>
     <string name="se_route_ese">Встроенный безопасный элемент</string>
     <string name="se_route_uicc">Безопасный элемент на SIM-карте</string>
+    <string name="search_launcher">Рабочий стол</string>
     <string name="security_enable_widgets_disabled_summary">Отключено администратором</string>
     <string name="security_enable_widgets_title">Включить виджеты</string>
     <string name="security_keyguard_category_name">Блокировка экрана</string>
@@ -1992,6 +1989,7 @@
     <string name="sort_order_alpha">Упорядочить по именам</string>
     <string name="sort_order_size">Упорядочить по размеру</string>
     <string name="sound_category_call_ringtone_vibrate_title">Звуки</string>
+    <string name="sound_category_calls_and_notification_title">Рингтон и уведомления</string>
     <string name="sound_category_notification_title">Уведомления</string>
     <string name="sound_category_sound_title">Общие</string>
     <string name="sound_category_system_title">Система</string>
@@ -2047,6 +2045,7 @@
     <string name="status_bar_settings_toggle_layout_style_single_page">Сетка</string>
     <string name="status_bar_settings_toggle_position">Положение переключателей</string>
     <string name="status_bar_style_settings">Уведомления</string>
+    <string name="status_bar_toggle_arrangement">Сортировать переключатели</string>
     <string name="status_bt_address">Адрес Bluetooth</string>
     <string name="status_data_state">Мобильная передача данных</string>
     <string name="status_icc_id">ICCID</string>
@@ -2374,6 +2373,7 @@
     <string name="vibrate_input_devices">Использовать вибро</string>
     <string name="vibrate_input_devices_summary">Перенаправить вибро на подключенный игровой контроллер</string>
     <string name="vibrate_when_ringing_title">В обычном режиме</string>
+    <string name="view_install_log">Показать журнал</string>
     <string name="virus_scan">Антивирус</string>
     <string name="virus_scan_app_continue">Продолжить</string>
     <string name="virus_scan_app_find_risk">Найдено угроз: %d</string>

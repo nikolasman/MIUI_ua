@@ -265,7 +265,7 @@
     <string name="priority_storage">Использовать внешний накопитель</string>
     <string name="priority_storage_summary">Автоматически сохранять на внешний накопитель, если подключен.</string>
     <string name="rank">Топ</string>
-    <string name="receive_mipush">Push уведомления</string>
+    <string name="receive_mipush">Всплывающие уведомления</string>
     <string name="receive_mipush_summary">Получать уведомления о новых видео</string>
     <string name="recent_play">Недавние</string>
     <string name="recentplay">Недавнее</string>

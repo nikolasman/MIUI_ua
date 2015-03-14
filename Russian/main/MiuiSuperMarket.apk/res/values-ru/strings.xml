@@ -306,7 +306,7 @@
     <string name="pref_title_feature_intro">Возможности</string>
     <string name="pref_title_hotsubjects_notification">Коллекции</string>
     <string name="pref_title_network_diagnostics">Диагностика сети</string>
-    <string name="pref_title_receive_push_message">Получать push сообщения</string>
+    <string name="pref_title_receive_push_message">Всплывающие уведомления</string>
     <string name="pref_title_show_report_data">Показать данные отчета</string>
     <string name="pref_title_silent_install">Установка без уведомлений</string>
     <string name="pref_title_update_notification">Обновления</string>
