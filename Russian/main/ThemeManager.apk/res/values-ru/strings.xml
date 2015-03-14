@@ -311,7 +311,7 @@
     <string name="theme_favorite_waiting">Подождите…</string>
     <string name="theme_fresh_man_notifaction">Доступны новые темы</string>
     <string name="theme_immediately_apply_tip">Тема обновляется, применить после обновления?</string>
-    <string name="theme_import_from_sdcard">Импортировать файл MTZ</string>
+    <string name="theme_import_from_sdcard">Импортировать</string>
     <string name="theme_multiple_button_title_customize">Компоненты</string>
     <string name="theme_name">%1$s</string>
     <string name="theme_no">Отмена</string>
