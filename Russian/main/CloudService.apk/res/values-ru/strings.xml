@@ -129,7 +129,7 @@
     <string name="micloud_main_sync_now">Синхронизировать</string>
     <string name="micloud_main_sync_on_wifi">Данные будут синхронизироваться по Wi-Fi</string>
     <string name="micloud_main_sync_pause">Синхронизация приостановлена</string>
-    <string name="micloud_main_sync_stop">Синхронизация остановлена</string>
+    <string name="micloud_main_sync_stop">Синхронизация выключена</string>
     <string name="micloud_main_synced_data_count">Синхронизировано: %d</string>
     <string name="micloud_main_syncing">Синхронизация…</string>
     <string name="micloud_main_update_space">Получить больше места</string>
@@ -225,7 +225,7 @@
     <string name="sync_off">Выкл.</string>
     <string name="sync_on">Вкл.</string>
     <string name="sync_resend_sms_dspt_provision">. Если вы смените SIM карту, ваш оператор может взимать плату за SMS для повторной активации этого сервиса.</string>
-    <string name="sync_setting">Общие</string>
+    <string name="sync_setting">Режим</string>
     <string name="sync_standard">По умолчанию</string>
     <string name="sync_sub_1_intl_sms">Для активации SIM карты будет отправлена международная SMS</string>
     <string name="sync_sub_1_sms">Для активации SIM карты будет отправлена SMS</string>

@@ -2536,7 +2536,7 @@
     <string name="wifi_context_menu_change_wapi_certificate">Изменить сертификат WAPI</string>
     <string name="wifi_context_menu_connect">Подключиться</string>
     <string name="wifi_context_menu_forget">Удалить сеть</string>
-    <string name="wifi_datanetwork_switch_not_remind">Не напоминать</string>
+    <string name="wifi_datanetwork_switch_not_remind">Запомнить</string>
     <string name="wifi_disabled_generic">Отключено</string>
     <string name="wifi_disabled_help">Сеть Wi-Fi отключена из-за нестабильного соединения</string>
     <string name="wifi_disabled_network_failure">Включено</string>
@@ -2824,7 +2824,7 @@
     <string name="xiaomi_account">Аккаунт Xiaomi</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="xiaomi_money_service">Центр MiCredits</string>
-    <string name="xiaomi_router_available_notif_summary">Нажмите для просмотра</string>
+    <string name="xiaomi_router_available_notif_summary">Просмотр</string>
     <string name="xiaomi_router_available_notif_title">Доступен роутер Xiaomi</string>
     <string name="xiaomi_router_notif_summary">Сообщать, когда доступен роутер Xiaomi.</string>
     <string name="xiaomi_router_notif_title">Уведомлять о роутере Xiaomi</string>

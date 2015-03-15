@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="click_to_enter_text">Нажмите для просмотра</string>
+    <string name="click_to_enter_text">Просмотр</string>
     <string name="confirm_pin_msg">Введите PIN снова</string>
     <string name="default_lockscreen_unlock_hint_text">Вверх для разблокировки</string>
     <string name="delete">Сброс</string>

@@ -180,8 +180,8 @@
     <string name="over_24h_clock_operation">Вы не можете установить будильник более 24 часов, следует создать заметку в календарь</string>
     <string name="password_guard">Защита</string>
     <string name="permission">Права</string>
-    <string name="permission_allow">Доступ к контактам, интернету, GPS?</string>
-    <string name="permission_switch">Доступ к контактам, интернету, GPS</string>
+    <string name="permission_allow">Предоставить доступ к контактам, сети, GPS?</string>
+    <string name="permission_switch">Доступ к контактам, сети, GPS</string>
     <string name="phone_by_ear_launch">Поднесите телефон к уху</string>
     <string name="phone_report">Отчет вызовов</string>
     <string name="quick_launch_settings">Быстрый запуск</string>

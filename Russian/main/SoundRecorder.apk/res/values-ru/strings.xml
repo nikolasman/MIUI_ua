@@ -56,6 +56,7 @@
     <string name="preference_record_type_title">Формат записи</string>
     <string name="preference_scenes">Режим записи</string>
     <string name="preference_silent_mode">Выключать все звуки</string>
+    <string name="preference_tip_rename">Переименовать после записи</string>
     <string name="record_back_pressed_hint">Для остановки записи, нажмите Назад еще раз</string>
     <string name="record_download">Скачать запись из MiCloud?</string>
     <string name="record_download_activity">Загрузка записей</string>
@@ -85,6 +86,7 @@
     <string name="rename">Переименовать</string>
     <string name="rename_dialog_title">Переименование файла</string>
     <string name="rename_duplicate">Дубликат имени записи. Пожалуйста, переименуйте:</string>
+    <string name="rename_no_more_tip">Не спрашивать больше</string>
     <string name="retry">Повтор</string>
     <string name="search_for_recordings_in_folders">Поиск записей в папках</string>
     <string name="second">%d сек.</string>

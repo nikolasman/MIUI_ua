@@ -264,7 +264,7 @@
     <string name="micloud_sync_info">Данных для синхронизации: %d</string>
     <string name="micloud_sync_info_synced">Все данные синхронизированы</string>
     <string name="micloud_sync_state_need_wifi">Ожидание сети Wi-Fi</string>
-    <string name="micloud_sync_state_stop">Синхронизация остановлена</string>
+    <string name="micloud_sync_state_stop">Синхронизация выключена</string>
     <string name="micloud_sync_state_synced">Данные синхронизированы</string>
     <string name="micloud_sync_state_syncing">Синхронизация…</string>
     <string name="micloud_user_base_info">Информация о пользователе</string>

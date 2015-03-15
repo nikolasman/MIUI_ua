@@ -162,7 +162,7 @@
     <string name="pref_error_no_ringtone_select">Не выбрано</string>
     <string name="pref_title_alarm_remind">Звуковой сигнал</string>
     <string name="pref_title_alert_remind">Всплывающее уведомление</string>
-    <string name="pref_title_no_remind">Не напоминать</string>
+    <string name="pref_title_no_remind">Запомнить</string>
     <string name="pref_title_notification_remind">Только в строке состояния</string>
     <string name="preferences_about_title">О программе</string>
     <string name="preferences_alerts_popup_title">Всплывающее окно</string>

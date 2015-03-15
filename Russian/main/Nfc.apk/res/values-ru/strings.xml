@@ -8,7 +8,7 @@
     <string name="beam_handover_not_supported">Устройство получателя не поддерживает передачу больших объемов данных через Android Beam</string>
     <string name="beam_outgoing">Отправка содержимого…</string>
     <string name="beam_progress">Входящая передача…</string>
-    <string name="beam_touch_to_view">Нажмите для просмотра</string>
+    <string name="beam_touch_to_view">Просмотр</string>
     <string name="beam_try_again">Снова поднесите устройства друг к другу</string>
     <string name="cancel">Отмена</string>
     <string name="complete_with">Завершить с</string>

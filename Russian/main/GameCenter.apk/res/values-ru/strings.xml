@@ -65,7 +65,7 @@
     <string name="clear_search_history_success">История поиска очищена</string>
     <string name="click_again_exit_app">Нажмите еще раз для выхода</string>
     <string name="click_average_score">решение о рабочих очках</string>
-    <string name="click_to_messagecenter">Нажмите для просмотра</string>
+    <string name="click_to_messagecenter">Просмотр</string>
     <string name="client_do_not_update_now">Обновить позже</string>
     <string name="client_download_start">Загрузка</string>
     <string name="client_update_now">Обновить</string>
@@ -630,4 +630,6 @@
     <string name="welcome_select_games">Выделите игры для установки</string>
     <string name="welcome_skip_button">Далее</string>
     <string name="welcome_title">Добро пожаловать!</string>
+    <string name="update_notify_title">Уведомления</string>
+    <string name="update_notify_summary">Уведомлять, когда доступны обновления игр</string>
 </resources>

@@ -1005,7 +1005,7 @@
     <string name="simContacts_emptyLoading">Загрузка контактов с SIM-карты…</string>
     <string name="simContacts_title">Контакты на SIM-карте</string>
     <string name="sim_account_name">SIM</string>
-    <string name="sim_capacity">Вместимость SIM-карты</string>
+    <string name="sim_capacity">Емкость SIM-карты</string>
     <string name="sim_capacity_content" formatted="false">%d всего | %d использовано</string>
     <string name="sim_card_no_free_space_message">Память SIM-карты заполнена. Пожалуйста, очистите SIM-карту и попробуйте еще раз.</string>
     <string name="sim_card_no_free_space_title">SIM-карта заполнена!</string>

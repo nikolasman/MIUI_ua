@@ -589,7 +589,7 @@
     <string name="mismatch_pin">Введенные PIN не совпадают. Повторите попытку.</string>
     <string name="mismatch_pin2">Введенные PIN2 не совпадают. Повторите попытку.</string>
     <string name="missed_call_notify_five_times">5 раз</string>
-    <string name="missed_call_notify_none">Не напоминать</string>
+    <string name="missed_call_notify_none">Запомнить</string>
     <string name="missed_call_notify_once">1 раз</string>
     <string name="missed_call_notify_ten_times">10 раз</string>
     <string name="missed_call_notify_thrice">3 раза</string>
