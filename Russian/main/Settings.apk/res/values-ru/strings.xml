@@ -1712,7 +1712,6 @@
     <string name="radioInfo_data_disconnected">Отключено</string>
     <string name="radioInfo_data_suspended">Приостановлено</string>
     <string name="radioInfo_display_bytes">байт</string>
-    <string name="radioInfo_display_packets">pkts</string>
     <string name="radioInfo_lac">LAC</string>
     <string name="radioInfo_menu_getPDP">Получить список PDP</string>
     <string name="radioInfo_menu_viewADN">Просмотреть адресную книгу на SIM-карте</string>

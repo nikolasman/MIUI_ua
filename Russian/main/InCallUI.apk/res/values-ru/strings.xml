@@ -250,7 +250,6 @@
     <string name="dualtalk_tip_accept_disconnect_outgoing">Ответ на этот вызов завершит исходящий вызов.</string>
     <string name="dualtalk_tip_accept_disconnect_outgoing_reject_incoming">Ответ на этот вызов завершит исходящий вызов и будет отвергать другие входящие вызовы.</string>
     <string name="dualtalk_tip_accept_disconnect_voice">Ответ на этот вызов завершит другой вызов.</string>
-    <string name="ecm_exit_dialog">EcmExitDialog</string>
     <string name="edit_fdn_contact">Изменить номер фиксированного набора</string>
     <string name="emergency_broadcast_disable">Оповещения о чрезвычайных ситуациях отключены</string>
     <string name="emergency_broadcast_enable">Оповещения о чрезвычайных ситуациях включены</string>
@@ -812,8 +811,6 @@
     <string name="stop_record">Остановить запись</string>
     <string name="stop_record_vt">Остановить запись</string>
     <string name="str_db_playlist_name">Мои записи</string>
-    <string name="sub_1">SUB 1</string>
-    <string name="sub_2">SUB 2</string>
     <string name="sum_carrier_select">Выбор оператора</string>
     <string name="sum_cdma_call_settings">Дополнительные настройки (только CDMA-звонков)</string>
     <string name="sum_cell_broadcast_control_off">Отключить информационные сообщения</string>

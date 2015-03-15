@@ -145,9 +145,9 @@
     <string name="caller_id_summary">Скрывать номер для исходящих вызовов, если поддерживает оператор.</string>
     <string name="caller_id_title">Скрытие номера</string>
     <string name="caller_manage_header">Конференция %s</string>
-    <string name="caller_manage_manage_done_text">Back to call</string>
+    <string name="caller_manage_manage_done_text">Назад к вызову</string>
     <string name="callind_multi_sim">Выбрать оператора</string>
-    <string name="calling_via_template">Calling via %s</string>
+    <string name="calling_via_template">Вызов с %s</string>
     <string name="callwait_open_hint">Услуга \"Ожидание вызова\" предоставляется оператором, если вы получаете ошибку кода MMI, обратитесь к вашему оператору для выяснения подробностей.</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_call">Отмена</string>
@@ -202,7 +202,6 @@
     <string name="cb_sms_settings">Настройки широковещательных SMS служб</string>
     <string name="cdma_activate_device">Активировать устройство</string>
     <string name="cdma_cfu_dialog_sum">Всегда использовать этот номер</string>
-    <string name="cdma_cfu_title">China Telecom</string>
     <string name="cdma_display_precise_call_state_message">Если данная функция не поддерживается оператором, будут показаны неверные данные.</string>
     <string name="cdma_display_precise_call_state_summary">Подтвердите, что ваша сеть поддерживает эту функцию.</string>
     <string name="cdma_display_precise_call_state_title">Показывать состояние вызова</string>
@@ -268,11 +267,8 @@
     <string name="data_enable_summary">Разрешить передачу данных по мобильной сети</string>
     <string name="data_enabled">Передача данных</string>
     <string name="deactivate_all">Отменить все</string>
-    <string name="default_call_type">CSVoice</string>
     <string name="default_notification_description">Рингтон по умолчанию (%1$s)</string>
-    <string name="default_port">5060</string>
     <string name="default_preference_summary">&lt;Не настроено></string>
-    <string name="default_transport">UDP</string>
     <string name="delete">Удалить</string>
     <string name="deleteAllSimEntries">Удалить все контакты SIM</string>
     <string name="deleteSimContacts">Удаление контактов SIM…</string>
@@ -334,7 +330,6 @@
     <string name="dualtalk_tip_accept_disconnect_outgoing">Принятие этого звонка завершит иходящий звонок</string>
     <string name="dualtalk_tip_accept_disconnect_outgoing_reject_incoming">Принятие этого звонка приведет к завершению исходящего звонка и отклонению другого входящего звонка.</string>
     <string name="dualtalk_tip_accept_disconnect_voice">Принятие этого звонка приведет к завершению голосового вызова.</string>
-    <string name="ecm_exit_dialog">EcmExitDialog</string>
     <string name="editContact">Правка</string>
     <string name="edit_fdn_contact">Изменить номер фиксированного набора</string>
     <string name="emergencyDialerIconLabel">Номера экстренных вызовов</string>
@@ -454,7 +449,6 @@
     <string name="importToFDNfromContacts">Импортировать из контактов</string>
     <string name="importingSimContacts">Импорт контактов с SIM карты</string>
     <string name="ims_accounts_title">Аккаунт IMS</string>
-    <string name="ims_call_type_control">ImsCallTypeCapabilityControl</string>
     <string name="ims_edit_title">Информация аккаунта IMS</string>
     <string name="ims_menu_discard">Отмена</string>
     <string name="ims_menu_save">Сохранить</string>
@@ -1019,14 +1013,11 @@
     <string name="sip_accounts">SIP аккаунты</string>
     <string name="sip_accounts_title">Аккаунты</string>
     <string name="sip_add_account_tip_text">Нет аккаунтов</string>
-    <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-    <string name="sip_always">SIP_ALWAYS</string>
     <string name="sip_always_send_keepalive">Отправлять всегда</string>
-    <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
     <string name="sip_call_options_entry_1">Для всех вызовов</string>
     <string name="sip_call_options_entry_2">Только для SIP вызовов</string>
     <string name="sip_call_options_entry_3">Спрашивать при каждом вызове</string>
-    <string name="sip_call_options_title">Использование SIP телефонии</string>
+    <string name="sip_call_options_title">Использование интернет вызовов</string>
     <string name="sip_call_options_title_single_sim">Настройки интернет-вызовов</string>
     <string name="sip_call_options_wifi_only_entry_1">Для всех вызовов</string>
     <string name="sip_call_options_wifi_only_title">Только при активном Wi-Fi</string>
@@ -1037,7 +1028,7 @@
     <string name="sip_menu_save">Сохранить</string>
     <string name="sip_receive_calls">Принимать входящие</string>
     <string name="sip_receive_calls_summary">Повышает расход заряда батареи</string>
-    <string name="sip_settings">SIP телефония</string>
+    <string name="sip_settings">Интрнет вызовы</string>
     <string name="sip_system_decide">Автоматически</string>
     <string name="sp_unlock_failed">Ошибка разблокировки служб SIM</string>
     <string name="sp_unlock_success">SIM сервис успешно разблокирован</string>
@@ -1052,8 +1043,6 @@
     <string name="stop_record">Останов. запись</string>
     <string name="stop_record_vt">Остановка записи</string>
     <string name="str_db_playlist_name">Мои записи</string>
-    <string name="sub1LineNumber">Sub1 Number :</string>
-    <string name="sub2LineNumber">Sub2 Number :</string>
     <string name="sum_carrier_select">Выберите оператора связи</string>
     <string name="sum_cdma_call_settings">Дополнительные настройки (только CDMA-звонков)</string>
     <string name="sum_cell_broadcast_control_off">Отключ. сообщения БС</string>
