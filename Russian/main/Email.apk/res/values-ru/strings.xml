@@ -87,6 +87,7 @@
     <string name="account_setup_check_settings_check_incoming_msg">Проверка настроек сервера входящих сообщений…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">Проверка настроек сервера исходящих сообщений…</string>
     <string name="account_setup_check_settings_retr_info_msg">Получение информации аккаунта…</string>
+    <string name="account_setup_correct_address_tips">Введите адрес</string>
     <string name="account_setup_creating_account_msg">Авторизация аккаунта…</string>
     <string name="account_setup_deleting_account_msg">Deleting account…</string>
     <string name="account_setup_exchange_certificate_title">Сертификат клиента</string>
@@ -429,6 +430,7 @@
     <string name="flow_saved_dlg_message">Новых сообщений: %1$d | Экономия трафика: %2$s</string>
     <string name="flow_saved_dlg_title">Экономия трафика</string>
     <string name="flow_saved_preference_total">Экономия трафика: %1$s</string>
+    <string name="folder_icon_desc">Иконки папок</string>
     <string name="folder_picker_title">Выбор папки</string>
     <string name="folder_removed">Удалено из \"%1$s\"</string>
     <string name="formatted_email_address">&lt;%1$s></string>
@@ -572,14 +574,7 @@
     <string name="message_body_auto_download_tip">Сеть Wi-Fi активна. Почта будет загружаться автоматически.</string>
     <string name="message_body_download_failed">Ошибка загрузки. Превышено время ожидания.</string>
     <string name="message_body_loading">[загрузка…]</string>
-    <string name="message_compose_fwd_header_fmt">"
-        
-        -------- Исходное сообщение --------
-        Тема: %1$s
-        От: %2$s
-        Кому: %3$s
-        Копия: %4$s
-        "</string>
+    <string name="message_compose_fwd_header_fmt">"\n-------- Исходное сообщение --------\nТема: %1$s\nОт: %2$s\nКому: %3$s\nКопия: %4$s\n"</string>
     <string name="message_compose_insert_quick_response_list_title">Быстрые ответы</string>
     <string name="message_compose_insert_quick_response_menu_title">Вставить быстрый ответ</string>
     <string name="message_count_spacer">  </string>
@@ -753,6 +748,8 @@
     <string name="recipient_needed">Получатель не выбран</string>
     <string name="recipient_needed_title">Предупредить</string>
     <string name="recipient_null_dialog_title">Предупреждение</string>
+    <string name="reduce_the_receiving_frequencye_summary">Не частая синхронизация почты в заданное время</string>
+    <string name="reduce_the_receiving_frequencye_title">Низкая частота синхронизации</string>
     <string name="refresh">Обновить</string>
     <string name="refreshing">Обновление…</string>
     <string name="refreshing_done">Синхронизация завершена</string>
@@ -786,6 +783,8 @@
     <string name="save_attachment">Сохранить</string>
     <string name="save_draft">Сохранить черновик</string>
     <string name="save_draft_failed">Не удалось сохранить черновик</string>
+    <string name="save_power_summary">Меньшее энергопотребление в заданное время</string>
+    <string name="save_power_title">Сохранение батареи</string>
     <string name="saved">"Загружено: %s | "</string>
     <string name="saving">Сохранение…</string>
     <string name="search_attachment">Поиск</string>
@@ -821,6 +820,7 @@
     <string name="ser_resp_err_map_certificate_validator_err">"Не удается проверить сертификат сервера \u0009 (проверьте, включена ли автосинхронизация)"</string>
     <string name="ser_resp_err_map_nouser">Такого пользователя нет</string>
     <string name="ser_resp_err_map_or">или</string>
+    <string name="ser_resp_err_map_pserr">Неверное имя пользователя или пароль</string>     
     <string name="ser_resp_err_map_serclosed">Сервер закрыт</string>
     <string name="ser_resp_err_map_ssl">Попробуйте выбрать пункт \"SSL/TLS (принимать все сертификаты)\" в параметрах безопасности</string>
     <string name="set_network">Установить сеть</string>
