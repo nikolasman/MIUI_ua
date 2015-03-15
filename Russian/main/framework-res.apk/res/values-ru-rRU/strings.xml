@@ -1288,7 +1288,7 @@
     <string name="permlab_setKeyboardLayout">Раскладка клавиатуры</string>
     <string name="permlab_setOrientation">Ориентация экрана</string>
     <string name="permlab_setPointerSpeed">Скорость указателя</string>
-    <string name="permlab_setPreferredApplications">Приложения по умолчанию</string>
+    <string name="permlab_setPreferredApplications">По умолчанию</string>
     <string name="permlab_setProcessLimit">Ограничение процессов</string>
     <string name="permlab_setScreenCompatibility">Совместимость экрана</string>
     <string name="permlab_setTime">Настройки времени</string>

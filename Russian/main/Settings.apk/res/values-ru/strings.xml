@@ -1601,7 +1601,7 @@
     <string name="pref_volume_wake_summary">Нажатие клавиш регулировки громкости в заблокированном состоянии разбудит устройство</string>
     <string name="pref_volume_wake_title">Пробуждать устройство</string>
     <string name="preference_change_password_title">Изменить пароль</string>
-    <string name="preferred_app_settings">Приложения по умолчанию</string>
+    <string name="preferred_app_settings">По умолчанию</string>
     <string name="preferred_app_settings_default">MIUI</string>
     <string name="preferred_app_settings_reset">Сброс настроек</string>
     <string name="preferred_app_settings_reset_message">Использовать все стандартные приложения по умолчанию?</string>

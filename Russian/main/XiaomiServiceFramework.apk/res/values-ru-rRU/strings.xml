@@ -14,7 +14,7 @@
     <string name="activate_popup_confirm_failed_send_sms">Повтор</string>
     <string name="activate_popup_confirm_failed_server">Повтор</string>
     <string name="activate_popup_confirm_upload_diagnosis_info">Отправить</string>
-    <string name="activate_popup_desc_2_intl_sim_cards">YДля активации \"%s\" будет отправлено 2 SMS в роуминг, за которые может взиматься дополнительная плата.</string>
+    <string name="activate_popup_desc_2_intl_sim_cards">Для активации \"%s\" будет отправлено 2 SMS в роуминг, за которые может взиматься дополнительная плата.</string>
     <string name="activate_popup_desc_2_sim_cards">Для активации \"%s\" будет отправлено 2 SMS, за которые может взиматься дополнительная плата.</string>
     <string name="activate_popup_desc_failed_phone_error">Введен неверный номер.</string>
     <string name="activate_popup_desc_failed_query_info">"Не удается получить номер телефона. Убедитесь, что ваша SIM карта обслуживается."</string>
