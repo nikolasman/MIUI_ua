@@ -796,8 +796,8 @@
     <string name="dndm_notification">Режим \"Не беспокоить\"</string>
     <string name="dndm_open">Не беспокоить</string>
     <string name="dndm_repeated_call_setting_title">Повторные вызовы</string>
-    <string name="dndm_repeated_call_summary_3min">Второй вызов от того же номера в течение трех минут не будет отключен</string>
-    <string name="dndm_repeated_call_summary_none">Не исключать повторные вызовы</string>
+    <string name="dndm_repeated_call_summary_3min">Повторный вызов от того же номера в течение трех минут не будет отключен</string>
+    <string name="dndm_repeated_call_summary_none">Повторные вызовы будут отключены</string>
     <string name="dndm_special_call_setting_group">Исключения</string>
     <string name="dndm_summary">При включении режима \"Не беспокоить\" все уведомления будут отключены</string>
     <string name="dndm_vip_call_button_title">Белый список</string>
