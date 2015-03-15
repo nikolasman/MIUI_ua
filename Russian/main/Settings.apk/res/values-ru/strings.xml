@@ -1996,7 +1996,7 @@
     <string name="sms_change_default_dialog_title">Изменить приложение для SMS?</string>
     <string name="sms_change_default_no_previous_dialog_text">Использовать приложение \"%s\" по умолчанию для SMS?</string>
     <string name="sms_delivered_sound_dialog_title">Выберите звук для уведомления о доставке сообщения</string>
-    <string name="sms_delivered_sound_title">Доставленное SMS</string>
+    <string name="sms_delivered_sound_title">Отчет о доставке</string>
     <string name="sms_over_ims_off">Отключить SMS через IMS</string>
     <string name="sms_over_ims_on">Включить SMS через IMS</string>
     <string name="sms_received_sound_dialog_title">Выберите звук для уведомления о получении сообщения</string>
