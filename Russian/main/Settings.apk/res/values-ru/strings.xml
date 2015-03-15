@@ -1892,7 +1892,7 @@
     <string name="security_keyguard_category_name">Блокировка экрана</string>
     <string name="security_password_category_name">Пароль</string>
     <string name="security_passwords_title">Пароли</string>
-    <string name="security_privacy_settings_title">Безопасность</string>
+    <string name="security_privacy_settings_title">Конфиденциальность</string>
     <string name="security_relative">Безопасные разрешения</string>
     <string name="security_settings_billing_desc">Это приложение может взять с вас деньги:</string>
     <string name="security_settings_desc">У этого приложения есть доступ к следующей информации на устройстве:</string>
@@ -2611,7 +2611,7 @@
     <string name="wifi_menu_wfd">Wi-Fi дисплей</string>
     <string name="wifi_menu_wps_pbc">Кнопка WPS</string>
     <string name="wifi_menu_wps_pin">Ввод PIN-кода WPS</string>
-    <string name="wifi_more">Дополнительно</string>
+    <string name="wifi_more">Ещё</string>
     <string name="wifi_network_prefix_length">Префикс</string>
     <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_not_in_range">Недоступна</string>
