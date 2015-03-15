@@ -30,7 +30,7 @@
     <string name="find_program">Онлайн</string>
     <string name="first_program">Первая программа</string>
     <string name="has_no_program_now">"Этот канал не имеет подкастов"</string>
-    <string name="high_quality">Высокое (48 bps)</string>
+    <string name="high_quality">Хорошее (48 bps)</string>
     <string name="hotlist_name">Горячий список Xiaomi</string>
     <string name="impunity_declaration">Вы соглашаетесь с поключением к сети для использования радио.</string>
     <string name="impunity_declaration_ignore">Запомнить</string>
@@ -88,7 +88,7 @@
     <string name="title_tone_quality">Настройка качества</string>
     <string name="tone_high_quality">Высокое качество</string>
     <string name="tone_high_quality_summary">Высокое качество всегда</string>
-    <string name="ultra_high_quality">Хорошое (64 bps)</string>
+    <string name="ultra_high_quality">Высокое (64 bps)</string>
     <string name="unfavorite">Не избранное</string>
     <string name="updated">" обновлено"</string>
     <string name="use_fm_radio_failed">"Это устройство не использует FM радио"</string>
