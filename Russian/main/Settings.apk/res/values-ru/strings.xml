@@ -1435,7 +1435,7 @@
     <string name="music_headset_calibrate_volume_up">Увеличение громкости</string>
     <string name="music_headset_calibrate_wrong_key">Неверная клавиша</string>
     <string name="music_headset_mode_music">Переключение треков</string>
-    <string name="music_headset_mode_settings">Кнопка гарнитуры</string>
+    <string name="music_headset_mode_settings">Клавиша гарнитуры</string>
     <string name="music_headset_mode_volume">Регулировка громкости</string>
     <string name="music_headset_no_contected">Гарнитура не подключена</string>
     <string name="music_headset_settings">Гарнитура</string>
