@@ -37,9 +37,9 @@
         <item>9 сек.</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"по мобильному трафику "</item>
-        <item>"по трафику Wi-Fi "</item>
-        <item>"по сжатым данным "</item>
+        <item>"по мобильному интернету: "</item>
+        <item>"по Wi-Fi: "</item>
+        <item>"сокращено трафика: "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Мобильный трафик "</item>
