@@ -2036,7 +2036,7 @@
     <string name="status_bar_settings_all_app_display_loading">Загрузка…</string>
     <string name="status_bar_settings_basic_settings">Общие</string>
     <string name="status_bar_settings_custom_carrier">Изменить имя оператора</string>
-    <string name="status_bar_settings_custom_notification">Управравление уведомлениями</string>
+    <string name="status_bar_settings_custom_notification">Управление уведомлениями</string>
     <string name="status_bar_settings_custom_wifi_name">Изменить имя Wi-Fi</string>
     <string name="status_bar_settings_expandable_under_keyguard">Доступ на экране блокировки</string>
     <string name="status_bar_settings_long_click_sort">Удерживайте для сортировки</string>
