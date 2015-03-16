@@ -1798,7 +1798,7 @@
     <string name="ring_volume_title">Громкость звонка</string>
     <string name="ringtone_mute">Без звука</string>
     <string name="ringtone_slot_setting_title">Настройки одной SIM карты</string>
-    <string name="ringtone_title">Мелодия</string>
+    <string name="ringtone_title">Звонок</string>
     <string name="ringtone_uniform_setting_title">Настройки двух SIM карт</string>
     <string name="roaming">Интернет-роуминг</string>
     <string name="roaming_disable">Подключаться к службам передачи данных при роуминге</string>
@@ -2000,10 +2000,10 @@
     <string name="sms_over_ims_off">Отключить SMS через IMS</string>
     <string name="sms_over_ims_on">Включить SMS через IMS</string>
     <string name="sms_received_sound_dialog_title">Выберите звук для уведомления о получении сообщения</string>
-    <string name="sms_received_sound_title">Входящее SMS</string>
+    <string name="sms_received_sound_title">Сообщения</string>
     <string name="sort_order_alpha">Упорядочить по именам</string>
     <string name="sort_order_size">Упорядочить по размеру</string>
-    <string name="sound_category_call_ringtone_vibrate_title">Звуки</string>
+    <string name="sound_category_call_ringtone_vibrate_title">Настройка мелодий</string>
     <string name="sound_category_calls_and_notification_title">Рингтон и уведомления</string>
     <string name="sound_category_notification_title">Уведомления</string>
     <string name="sound_category_sound_title">Общие</string>
