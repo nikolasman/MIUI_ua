@@ -205,8 +205,8 @@
     <string name="HIPS_Perm_WIFINetwork_Desc">Доступ в интернет по Wi-Fi</string>
     <string name="HIPS_Perm_WIFINetwork_Hint">Доступ в интернет по Wi-Fi (%1$s)</string>
     <string name="HIPS_Perm_WIFI_Connectivity">Изменение состояния Wi-Fi</string>
-    <string name="HIPS_Perm_WIFI_Connectivity_Desc">Включение/выключегние Wi-Fi</string>
-    <string name="HIPS_Perm_WIFI_Connectivity_Hint">Включение/выключегние Wi-Fi (%1$s)</string>
+    <string name="HIPS_Perm_WIFI_Connectivity_Desc">Включение/выключение Wi-Fi</string>
+    <string name="HIPS_Perm_WIFI_Connectivity_Hint">Включение/выключение Wi-Fi (%1$s)</string>
     <string name="HIPS_Perm_Wakelock">Пробуждение устройства</string>
     <string name="HIPS_Perm_Wakelock_Desc">Доступ к пробуждению устройства</string>
     <string name="HIPS_Perm_Wakelock_Hint">Доступ к пробуждению устройства (%1$s)</string>
