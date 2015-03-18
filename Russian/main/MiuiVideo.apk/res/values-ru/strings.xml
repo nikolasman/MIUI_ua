@@ -144,7 +144,6 @@
     <string name="feature">Рекомендуемые</string>
     <string name="feature_list_empty_hint">Нет видео</string>
     <string name="feature_media_empty_hint">Нет видео</string>
-    <string name="fenghuang">Fenghuang</string>
     <string name="file_error">Ошибка файла</string>
     <string name="file_not_exist">Файл не существует</string>
     <string name="film">Фильмы</string>
@@ -155,7 +154,6 @@
     <string name="forecast_empty_hint">Нет приложения</string>
     <string name="forecasts">Погода</string>
     <string name="fullscreen">Полный экран</string>
-    <string name="funshion">Funshion</string>
     <string name="gong_count_bu">Просмотров: %d</string>
     <string name="gong_count_dlna">DLNA: %d</string>
     <string name="gong_count_ge">Видео: %d</string>

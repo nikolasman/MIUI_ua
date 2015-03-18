@@ -96,7 +96,6 @@
     <string name="context_menu_view_contact">Просмотр контактов</string>
     <string name="context_menu_view_mms">Просмотр MMS</string>
     <string name="conversation">Сообщения</string>
-    <string name="conversation_style">bubble</string>
     <string name="converting_to_picture_message">Преобразование в сообщение MMS…</string>
     <string name="converting_to_text_message">Преобразование в сообщение SMS…</string>
     <string name="copy_message_text">Копировать</string>

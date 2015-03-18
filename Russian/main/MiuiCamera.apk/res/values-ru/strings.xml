@@ -400,7 +400,6 @@
     <string name="pref_camera_volumekey_function_entry_zooming">Зум</string>
     <string name="pref_camera_volumekey_function_title">Функция клавиш громкости</string>
     <string name="pref_camera_watermark_title">Дата на фото</string>
-    <string name="pref_camera_whitebalance_default">auto</string>
     <string name="pref_camera_whitebalance_entry_auto">Авто</string>
     <string name="pref_camera_whitebalance_entry_cloudy">Облачный</string>
     <string name="pref_camera_whitebalance_entry_daylight">Теплый</string>
@@ -437,7 +436,6 @@
     <string name="pref_video_captrue_ability_title">Захват кадра при съемке</string>
     <string name="pref_video_focusmode_entry_auto">Прикосновение</string>
     <string name="pref_video_focusmode_entry_continuous">Непрерывный</string>
-    <string name="pref_video_focusmode_entryvalue_default">auto</string>
     <string name="pref_video_focusmode_title">Режим фокусировки</string>
     <string name="pref_video_quality_entry_1080p">Full HD</string>
     <string name="pref_video_quality_entry_480p">SD</string>

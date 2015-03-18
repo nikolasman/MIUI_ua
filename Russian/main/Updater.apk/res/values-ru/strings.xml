@@ -74,7 +74,7 @@
     <string name="get_current">Загрузить текущую прошивку</string>
     <string name="get_update_error">Ошибка получения информации</string>
     <string name="go_on_download">Продолжить загрузку</string>
-    <string name="important_suggestion">Privacy Policy has changed</string>
+    <string name="important_suggestion">Политика конфиденциальности изменена</string>
     <string name="install">Установить</string>
     <string name="install_failed">Ошибка обновления</string>
     <string name="install_file_explorer">Пожалуйста, установите файловый мнеджер</string>
@@ -116,7 +116,7 @@
     <string name="notification_reboot_des">Обновлено завершено: %s. Требуется перезагрузка.</string>
     <string name="notification_reboot_seccess_des">Рассказать друзьям</string>
     <string name="notification_reboot_seccess_title">Обновление завершено</string>
-    <string name="notification_reboot_summary_hm">Touch to reboot your device.</string>
+    <string name="notification_reboot_summary_hm">Нажмите для перезагузки.</string>
     <string name="notification_reboot_title">Обновление завершено</string>
     <string name="notification_reboot_title_hm">Перезагрузить для применения обновления</string>
     <string name="notification_share">Поделиться</string>

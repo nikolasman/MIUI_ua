@@ -89,7 +89,7 @@
     <string name="account_setup_check_settings_retr_info_msg">Получение информации аккаунта…</string>
     <string name="account_setup_correct_address_tips">Введите адрес</string>
     <string name="account_setup_creating_account_msg">Авторизация аккаунта…</string>
-    <string name="account_setup_deleting_account_msg">Deleting account…</string>
+    <string name="account_setup_deleting_account_msg">Удаление аккаунта…</string>
     <string name="account_setup_exchange_certificate_title">Сертификат клиента</string>
     <string name="account_setup_exchange_device_id_label">Идентификатор мобильного устройства</string>
     <string name="account_setup_exchange_no_certificate">Не используется</string>
@@ -210,7 +210,6 @@
     <string name="always_show_images_toast">Изображения от этого отправителя всегда будут отображаться автоматически</string>
     <string name="annex_size">Вложения</string>
     <string name="app_name">Почта</string>
-    <string name="application_mime_type">application/email-ls</string>
     <string name="archive">Архивировать</string>
     <string name="archived">Архивировано</string>
     <string name="att_download_failed_content">Не удалось загрузить вложение</string>
@@ -510,14 +509,6 @@
     <string name="mailbox_name_display_starred">Избранные</string>
     <string name="mailbox_name_display_trash">Корзина</string>
     <string name="mailbox_name_display_unread">Непрочитанные</string>
-    <string name="mailbox_name_server_all_unread">Unread</string>
-    <string name="mailbox_name_server_drafts">Drafts</string>
-    <string name="mailbox_name_server_inbox">Inbox</string>
-    <string name="mailbox_name_server_junk">Junk</string>
-    <string name="mailbox_name_server_outbox">Outbox</string>
-    <string name="mailbox_name_server_sent">Sent</string>
-    <string name="mailbox_name_server_starred">Starred</string>
-    <string name="mailbox_name_server_trash">Trash</string>
     <string name="mailbox_settings_activity_title">Параметры синхронизации</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Параметры синхронизации (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Период синхронизации</string>
@@ -704,7 +695,7 @@
     <string name="pop3_name">Почта (POP3)</string>
     <string name="prefDefault_autoAdvance">list</string>
     <string name="prefDialogTitle_conversationListIcon">Фото отправителя</string>
-    <string name="prefDialogTitle_removal_action">Aрхивация и удаление</string>
+    <string name="prefDialogTitle_removal_action">Архивация и удаление</string>
     <string name="preference_eas_tips">Страница активации запрошена сервером Email</string>
     <string name="preference_head_load_description">Загружать только заголовки сообщений при использовании мобильного интернета</string>
     <string name="preference_head_load_title">Мобильный трафик</string>
@@ -867,10 +858,6 @@
     <string name="too_large_to_attach_multiple">Некоторые файлы не прикреплены. Максимум: %1$s.</string>
     <string name="too_large_to_attach_single">Невозможно прикрепить файл более %1$s</string>
     <string name="trash_folder_selection_title">Выберите корзину на сервере для \"%s\"</string>
-    <string name="trigger_compose_char">c</string>
-    <string name="trigger_refresh_char">u</string>
-    <string name="trigger_save_char">s</string>
-    <string name="trigger_y_char">y</string>
     <string name="tryrefreshing">Попытка обновления…</string>
     <string name="turn_auto_sync_on_dialog_body">Изменения будут синхронизированы не только с Gmail, но и с другими устройствами, в том числе с Вашим %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Включить</string>

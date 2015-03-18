@@ -3,7 +3,7 @@
     <string name="access_history">Доступ истории</string>
     <string name="add_favorite">Новое</string>
     <string name="app_name">Радио</string>
-    <string name="app_to_share">select app to share</string>
+    <string name="app_to_share">выберите приложение, чтобы поделиться</string>
     <string name="avoid_to_use_traffic_summary">Напоминать пользователю об использовании мобильного соединения</string>
     <string name="avoid_to_use_traffic_title">Уведомление о передаче данных</string>
     <string name="bluetooth_device">Bluetooth устройство</string>

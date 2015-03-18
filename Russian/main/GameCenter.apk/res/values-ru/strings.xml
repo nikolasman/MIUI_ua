@@ -516,7 +516,7 @@
     <string name="played_game_account_update">Успешно изменен</string>
     <string name="played_game_item_name">Менеджер ID Игр</string>
     <string name="played_game_item_set_name">Настройки ID Игр</string>
-    <string name="played_game_view_title">Playing games</string>
+    <string name="played_game_view_title">Вы играете</string>
     <string name="popular_cat_tag">Популярное</string>
     <string name="positive_sign">+</string>
     <string name="pref_clear_image_cache">Очистить кэш</string>

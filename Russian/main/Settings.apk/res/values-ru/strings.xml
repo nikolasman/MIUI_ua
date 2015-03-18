@@ -1547,7 +1547,7 @@
     <string name="page_layout_8">Mi Жизнь</string>
     <string name="page_layout_9">Темы</string>
     <string name="page_layout_confirm_message">Необходима перезагрузка для применения изменений</string>
-    <string name="page_layout_confirm_title">Change display settings</string>
+    <string name="page_layout_confirm_title">Изменить настройки дисплея</string>
     <string name="passwordIncorrect">Неверный пароль</string>
     <string name="password_guard">Защита</string>
     <string name="percentage">%d%%</string>

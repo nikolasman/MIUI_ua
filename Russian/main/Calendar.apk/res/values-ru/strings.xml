@@ -269,7 +269,7 @@
     <string name="widget_no_events">Нет мероприятий</string>
     <string name="widget_select_style">Выберите стиль</string>
     <string name="work_day_indication">:(</string>
-    <string name="xiaomi_calendar_display_name">Calendar</string>
+    <string name="xiaomi_calendar_display_name">Календарь</string>
     <string name="yearly">Ежегодно (%s)</string>
     <string name="yearly_plain">Ежегодно</string>
 </resources>

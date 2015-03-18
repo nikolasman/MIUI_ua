@@ -514,7 +514,7 @@
     <string-array name="screen_optimize_title">
         <item>Автоматический контраст</item>
         <item>Повышенная контрастность</item>
-        <item>Cnfylfhn</item>
+        <item>Стандарт</item>
     </string-array>
     <string-array name="screen_optimize_summary">
         <item>Оптимизировать контраст по освещенности</item>

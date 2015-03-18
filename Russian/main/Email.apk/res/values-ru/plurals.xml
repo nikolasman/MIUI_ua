@@ -5,23 +5,23 @@
      </plurals>
      <plurals name="confirm_archive_conversation">
         <item quantity="one">Архивировать эту беседу?</item>
-        <item quantity="other">Archive these %1$d conversations?</item>
+        <item quantity="other">Архивировать беседы: %1$d?</item>
      </plurals>
      <plurals name="confirm_delete_conversation">
-        <item quantity="one">Delete this conversation?</item>
-        <item quantity="other">Delete these %1$d conversations?</item>
+        <item quantity="one">Удалить этот разговор?</item>
+        <item quantity="other">Удалить разговоры: %1$d?</item>
      </plurals>
      <plurals name="confirm_delete_conversation_with_sub">
-        <item quantity="other">These conversations contain merged items. Delete them anyway?</item>
-        <item quantity="zero">These conversations contain merged items. Delete them anyway?</item>
-        <item quantity="one">This conversations contains merged items. Delete it anyway?</item>
-        <item quantity="two">These conversations contain merged items. Delete them anyway?</item>
-        <item quantity="few">These conversations contain merged items. Delete them anyway?</item>
-        <item quantity="many">These conversations contain merged items. Delete them anyway?</item>
+        <item quantity="other">Эти разговоры содержат объединены элементы. Удалить их?</item>
+        <item quantity="zero">Эти разговоры содержат объединены элементы. Удалить их?</item>
+        <item quantity="one">Этот разговор содержит объединены элементы. Удалить их?</item>
+        <item quantity="two">Эти разговоры содержат объединены элементы. Удалить их?</item>
+        <item quantity="few">Эти разговоры содержат объединены элементы. Удалить их?</item>
+        <item quantity="many">Эти разговоры содержат объединены элементы. Удалить их?</item>
      </plurals>
      <plurals name="confirm_discard_drafts_conversation">
-        <item quantity="one">Discard drafts from this conversation?</item>
-        <item quantity="other">Discard drafts from these %1$d conversations?</item>
+        <item quantity="one">Удалить черновики из этого разговора?</item>
+        <item quantity="other">Удалить черновики из разговоров: %1$d?</item>
      </plurals>
      <plurals name="contact_num_selected">
         <item quantity="other">Выбрано: %d</item>
@@ -32,48 +32,44 @@
         <item quantity="many">Выбрано: %d</item>
      </plurals>
      <plurals name="conversation_archived">
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> archived.</item>
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> archived.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> архивировано.</item>
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> архивировано.</item>
      </plurals>
      <plurals name="conversation_deleted">
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> deleted.</item>
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> deleted.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> удалено.</item>
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> удалено.</item>
      </plurals>
      <plurals name="conversation_folder_changed">
-        <item quantity="one">Changed folder.</item>
-        <item quantity="other">Changed folders.</item>
+        <item quantity="one">Папка изменена.</item>
+        <item quantity="other">Папки изменены.</item>
      </plurals>
      <plurals name="conversation_muted">
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> muted.</item>
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> muted.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> отключены.</item>
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> отключены.</item>
      </plurals>
      <plurals name="conversation_not_important">
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> marked not important.</item>
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> marked not important.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> отмечено как не важное.</item>
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> отмечено как не важное.</item>
      </plurals>
      <plurals name="conversation_not_spam">
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> reported as not spam.</item>
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> reported as not spam.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> отмечено как не спам.</item>
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> отмечено как не спам.</item>
      </plurals>
      <plurals name="conversation_phished">
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> reported as phishing.</item>
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> reported as phishing.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> отправлено как фишинг.</item>
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> отправлены как фишинг.</item>
      </plurals>
      <plurals name="conversation_spammed">
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> reported as spam.</item>
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> reported as spam.</item>
-     </plurals>
-     <plurals name="conversation_unstarred">
-        <item quantity="one">Unstarring %1$d conversation.</item>
-        <item quantity="other">Unstarring %1$d conversations.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> отправлено как спам.</item>
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> отправлено как спам.</item>
      </plurals>
      <plurals name="draft">
-        <item quantity="one">Draft</item>
-        <item quantity="other">Drafts</item>
+        <item quantity="one">Черновик</item>
+        <item quantity="other">Черновики</item>
      </plurals>
      <plurals name="empty_folder_dialog_message">
-        <item quantity="one">%1$d message will be permanently deleted.</item>
-        <item quantity="other">%1$d messages will be permanently deleted.</item>
+        <item quantity="one">%1$d сообщение будет удалено.</item>
+        <item quantity="other">Сообщений будет удалено: %1$d.</item>
      </plurals>
      <plurals name="message_view_attachment_bytes">
         <item quantity="one">%d Б</item>
@@ -92,8 +88,8 @@
         <item quantity="other">%d МБ</item>
      </plurals>
      <plurals name="move_conversation">
-        <item quantity="one">Move conversation</item>
-        <item quantity="other">Move %1$d conversations</item>
+        <item quantity="one">Беседа перемещена</item>
+        <item quantity="other">Перемещено бесед: %1$d</item>
      </plurals>
      <plurals name="move_messages">
         <item quantity="one">Переместить сообщение</item>

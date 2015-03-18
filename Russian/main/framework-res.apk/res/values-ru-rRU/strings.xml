@@ -387,10 +387,6 @@
     <string name="grant_credentials_permission_message_footer">Разрешить доступ?</string>
     <string name="grant_credentials_permission_message_header">Одна или несколько программ требуют разрешения для доступа к вашему аккаунту сейчас и в дальнейшем.</string>
     <string name="grant_permissions_header_text">Запрос доступа</string>
-    <string name="granularity_label_character">character</string>
-    <string name="granularity_label_line">line</string>
-    <string name="granularity_label_link">link</string>
-    <string name="granularity_label_word">word</string>
     <string name="hardware">Аппаратная часть</string>
     <string name="heavy_weight_notification">Приложение \"%1$s\" запущено</string>
     <string name="heavy_weight_notification_detail">Нажмите для выбора приложения</string>
@@ -1476,7 +1472,7 @@
     <string name="roaming_not_allow_popup">Подключение невозможно в роуминге</string>
     <string name="roaming_not_allow_popup_in_menu">Подключение невозможно в роуминге. Настройте \"разрешить передачу данных в роуминге\" в Передача данных в роуминге</string>
     <string name="roaming_notallow_bt">Настройки</string>
-    <string name="root">ROOT</string>
+    <string name="root">Рут</string>
     <string name="safeMode">Безопасный режим</string>
     <string name="safe_media_volume_warning">"Повысить громкость выше безопасного уровня?\n Прослушивание на высокой громкости в течение длительного времени может привести к повреждению слуха."</string>
     <string name="save_file">Сохр. файл</string>

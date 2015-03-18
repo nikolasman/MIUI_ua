@@ -48,7 +48,7 @@
     <string name="btn_rotation">Повернуть</string>
     <string name="btn_split_contact">Разделить контакт</string>
     <string name="button_cancel_scan">Остановить</string>
-    <string name="button_scan">Cканировать</string>
+    <string name="button_scan">Сканировать</string>
     <string name="caching_vcard_message">Выполняется кэширование файлов vCard в локальное временное хранилище, скоро начнется импортирование.</string>
     <string name="caching_vcard_title">Кэширование</string>
     <string name="callAgain">Позвонить еще раз</string>

@@ -344,7 +344,7 @@
      <string name="miui_bookmark_menu_moveout_group_txt">Выйти</string>
      <string name="miui_content_copy">Копировать</string>
      <string name="miui_content_cut">Вырезать</string>
-     <string name="miui_content_open_url">Open URL</string>
+     <string name="miui_content_open_url">Открыть URL</string>
      <string name="miui_content_paste">Вставить</string>
      <string name="miui_content_select">Выбрать</string>
      <string name="miui_content_select_all">Выбрать все</string>
@@ -543,7 +543,6 @@
      <string name="pref_volume_key_enabled">Клавиши громкости</string>
      <string name="pref_volume_key_operation">Функция клавиш громкости</string>
      <string name="pref_webapp_settings_fontsize">Размер шрифта</string>
-     <string name="pref_webapp_settings_fontsize_key">pref_webapp_settings_fontsize_key</string>
      <string name="pref_webapp_settings_hidebottombar">Всегда скрывать нижний бар</string>
      <string name="pref_webapp_settings_savewidth">Не загружать изображения по мобильной сети</string>
      <string name="pref_zoom_on_double_tap">Увеличение двойным нажатием</string>
