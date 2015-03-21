@@ -18,7 +18,7 @@
     <string name="click_to_play">Нет программы для воспроизведения</string>
     <string name="device_connected">Подключено</string>
     <string name="device_not_connected">Нет соединения</string>
-    <string name="dialog_title_download_quality">Качество загурзки</string>
+    <string name="dialog_title_download_quality">Качество загрузки</string>
     <string name="dialog_title_tone_quality">Выберите качество воспроизведения</string>
     <string name="download_completed">Загружено</string>
     <string name="download_invalid">Нет источников</string>
