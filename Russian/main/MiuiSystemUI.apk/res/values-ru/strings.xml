@@ -15,10 +15,10 @@
     <string name="accessibility_data_connection_edge">EDGE</string>
     <string name="accessibility_data_connection_gprs">GPRS</string>
     <string name="accessibility_data_four_bars">Сигнал сети: 4</string>
-    <string name="accessibility_data_one_bar">Сигнал передачи данных: одно деление.</string>
+    <string name="accessibility_data_one_bar">Сигнал передачи данных: 1</string>
     <string name="accessibility_data_signal_full">Надежный сигнал передачи данных</string>
-    <string name="accessibility_data_three_bars">Сигнал передачи данных: три деления</string>
-    <string name="accessibility_data_two_bars">Сигнал передачи данных: два деления.</string>
+    <string name="accessibility_data_three_bars">Сигнал передачи данных: 3</string>
+    <string name="accessibility_data_two_bars">Сигнал передачи данных: 2.</string>
     <string name="accessibility_home">Главная страница</string>
     <string name="accessibility_menu">Меню</string>
     <string name="accessibility_no_data">Сигнал передачи данных отсутствует</string>
@@ -107,6 +107,7 @@
     <string name="hint_for_long_press_app_switch_key">Удерживайте для входа в меню</string>
     <string name="invalid_charger">Зарядка по USB-порту не поддерживается.\nИспользуйте зарядное устройство из комплекта поставки</string>
     <string name="label_view">Вид</string>
+    <string name="lockscreen_carrier_default">Нет сети</string>
     <string name="mdb_entering">Вход</string>
     <string name="mdb_restore_cancel">Отмена</string>
     <string name="mdb_restore_info1">Восстановит все ваши данные на телефоне</string>
