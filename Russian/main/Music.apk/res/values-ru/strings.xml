@@ -209,7 +209,7 @@
     <string name="normal_quality">Хорошее качество</string>
     <string name="not_login">Вход</string>
     <string name="not_selected">Выберите трек</string>
-    <string name="nowplaying_menu_item_delete">Удалсть</string>
+    <string name="nowplaying_menu_item_delete">Удалить</string>
     <string name="ok">ОК</string>
     <string name="online_music">Онлайн музыка</string>
     <string name="online_playlist_is_empty">Плейлист пуст</string>

@@ -985,7 +985,7 @@
     <string name="handy_mode_enable">Режим \"Одной руки\"</string>
     <string name="handy_mode_size">Размер экрана</string>
     <string name="handy_mode_tips">Проведите влево или вправо по навигационным клавишам</string>
-    <string name="haptic_feedback_enable_title">Виброотклик экрана</string>
+    <string name="haptic_feedback_enable_title">Виброотклик клавиш</string>
     <string name="haptic_feedback_level">Уровень вибрации</string>
     <string name="hardkeyboard_category">Настройки внешней клавиатуры</string>
     <string name="hdcp_checking_dialog_title">Порядок проверки HDCP</string>
