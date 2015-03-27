@@ -90,6 +90,8 @@
     <string name="email_subject_prefix">"Re: "</string>
     <string name="empty_event">Мероприятие не сохранено</string>
     <string name="event_account">Аккаунт</string>
+    <string name="event_action_delete">Удалить</string>
+    <string name="event_action_edit">Редактировать</string>
     <string name="event_all_day_label">Весь день</string>
     <string name="event_create">Новое мероприятие</string>
     <string name="event_date_format">d MMMM</string>
