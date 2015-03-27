@@ -41,6 +41,7 @@
     <string name="choose_wallpaper">Выбрать обои</string>
     <string name="chooser_wallpaper">Выбрать обои из</string>
     <string name="confirm_btn_label">ОК</string>
+    <string name="cloud_app_restore_title">Ожидание</string>
     <string name="current_preview">Просмотр</string>
     <string name="current_wallpaper">Выбранные</string>
     <string name="custom_wallpaper_picker">Еще</string>

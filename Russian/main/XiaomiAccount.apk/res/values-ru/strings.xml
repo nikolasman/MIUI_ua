@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="micloud_sync_state_pending">Ожидание</string>
     <string name="about_device_info">О телефоне</string>
     <string name="access_denied">Доступ запрещен</string>
     <string name="access_token_expired_warning">Срок действия аккаунта Weibo истек</string>

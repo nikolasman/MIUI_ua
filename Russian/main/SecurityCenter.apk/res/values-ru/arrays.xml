@@ -94,4 +94,14 @@
         <item>3</item>
         <item>4</item>
     </integer-array>
+    <string-array name="preferred_app_entries">
+        <item>Рабочий стол</item>
+        <item>Вызовы</item>
+        <item>Сообщения</item>
+        <item>Браузер</item>
+        <item>Камера</item>
+        <item>Галерея</item>
+        <item>Музыка</item>
+        <item>Почта</item>
+     </string-array>
 </resources>

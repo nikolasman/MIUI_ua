@@ -2833,4 +2833,14 @@
     <string name="zone_auto_summaryOn">Использование часового пояса сети</string>
     <string name="zone_list_menu_sort_alphabetically">Упорядочить по алфавиту</string>
     <string name="zone_list_menu_sort_by_timezone">Упорядочить по часовому поясу</string>
+<string name="agps_roaming">A-GPS в роуминге</string>
+     <string name="agps_roaming_dia">"Использование A-GPS в роуминге может увеличить использование мобильных данных. Ваш оператор может взимать дополнительные сборы"</string>
+     <string name="agps_roaming_dia_title">Использовать A-GPS в роуминге</string>
+     <string name="agps_roaming_summary">Использование A-GPS в роуминге может вызвать дополнительный расход заряда</string>
+     <string name="bluetooth_unlock_state_disconnected">Отключено</string>
+     <string name="bluetooth_unlock_state_key_error">Ошибка ключа</string>
+     <string name="bluetooth_unlock_state_label">Статус:</string>
+     <string name="bluetooth_unlock_state_ok">Успешно</string>
+     <string name="bluetooth_unlock_state_too_far">Не хватате</string>
+     <string name="crypt_keeper_failed_title">Расшифровка неудачна</string>
 </resources>
