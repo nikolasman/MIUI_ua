@@ -1641,7 +1641,7 @@
     <string name="print_service_security_warning_title">Использовать %1$s?</string>
     <string name="print_settings">Печать</string>
     <string name="print_settings_title">Настройки печати</string>
-    <string name="priority_storage_app_settings">Данные будут сохранены во %1$s</string>
+    <string name="priority_storage_app_settings">Данные %1$s будут сохранены в</string>
     <string name="priority_storage_settings_summary">Когда карта памяти не подключена, данные будут автоматически сохраняться во внутреннюю память устройства.</string>
     <string name="priority_storage_summary">Выберите память по умолчанию для сохранения данных</string>
     <string name="priority_storage_title">Настройки памяти</string>
