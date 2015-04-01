@@ -160,7 +160,7 @@
     <string name="mimetype">Тип MIME</string>
     <string name="model">Модель</string>
     <string name="no_save">Отмена</string>
-    <string name="no_storage">Вставте внешнюю память перед использованием камеры</string>
+    <string name="no_storage">Вставьте внешнюю память перед использованием камеры</string>
     <string name="no_thumbnail">Нет эскиза</string>
     <string name="not_enough_space">Память заполнена</string>
     <string name="not_selectable_in_scene_mode">Недоступно в режиме сюжета</string>

@@ -360,7 +360,7 @@
     <string name="ring_silent">Тихо</string>
     <string name="screen_rotation_off">Автоповорот выключен</string>
     <string name="screen_rotation_on">Автоповорот включен</string>
-    <string name="sdcard_not_mounted_dialog_message">"Вставте карту памяти"</string>
+    <string name="sdcard_not_mounted_dialog_message">"Вставьте карту памяти"</string>
     <string name="sdcard_not_mounted_dialog_title">Не найдено карты памяти</string>
     <string name="security_center">Безопасность</string>
     <string name="security_setting">Безопасность</string>
