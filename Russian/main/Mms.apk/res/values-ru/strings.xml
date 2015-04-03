@@ -80,6 +80,8 @@
   <string name="confirm_no_block_title">Отменить блокирование и восстановить в сообщения?</string>
   <string name="confirm_rate_limit">Отправляется большое количество MMS. Продолжить?</string>
   <string name="confirm_restore_all_title">Восстановить все сообщения от этого номера?</string>
+  <string name="confirm_restore_checkbox">Разблокировать сообщения с этого номера/string>
+  <string name="confirm_restore_message">Восстановить выбранные сообщения?</string>
   <string name="confirm_restore_positive">Восстановить</string>
   <string name="confirm_restore_title">Восстановить выбранные сообщения?</string>
   <string name="confirm_send_mms">Один из контактов получателей содержит адрес электронной почты. Это сообщение будет отправлено как MMS, за которое может взыматься дополнительная плата оператором.</string>
@@ -310,6 +312,7 @@
   <string name="notification_multiple_title">Новые сообщения</string>
   <string name="number_add_hint">Введите номер, чтобы добавить к частным контактам</string>
   <string name="open_url_with_web">Открыть URL-адрес?</string>
+  <string name="over_max_mms_size">Слишком большое Mms.</string>
   <string name="overwrite_edited_content">Перезаписать весь отредактированный контент?</string>
   <string name="phrase_confirm_delete_message">Удалить шаблоны</string>
   <string name="phrase_empty">Нет фраз</string>
@@ -346,6 +349,7 @@
   <string name="pref_summary_notification_body_enabled_when_secure">Предварительный просмотр сообщений отключен в режиме \"Гость\"</string>
   <string name="pref_summary_off_system_mms_priority">Другие приложения для сообщений будут получать сообщение первыми</string>
   <string name="pref_summary_on_system_mms_priority">Системное приложение будет получать сообщения первым</string>
+  <string name="pref_summary_send_delivery_reports">Отправлять отчет о доставке отправленных сообщений</string>
   <string name="pref_summary_show_recent_contacts">Показывать список недавних контактов при создании новых сообщений</string>
   <string name="pref_summary_wake_up_screen">Включение экрана при получении новых сообщений</string>
   <string name="pref_system_title">Системные</string>
@@ -367,9 +371,11 @@
   <string name="pref_title_notification_body_enabled">Предварительный просмотр</string>
   <string name="pref_title_ringtone_repeat">Количество напоминаний</string>
   <string name="pref_title_ringtone_repeat_summary">"Сколько раз будет повторяться уведомление о сообщении: "</string>
+  <string name="pref_title_send_delivery_reports">Отправить отчет о доставке</string>
   <string name="pref_title_show_recent_contacts">Недавние контакты</string>
   <string name="pref_title_sms_delete">Максимальное количество SMS</string>
   <string name="pref_title_sms_validity_period">Срок действия SMS</string>
+  <string name="pref_title_storage_status">Состояние памяти сообщений</string>
   <string name="pref_title_system_mms_priority">Приоритет для \"Сообщения\"</string>
   <string name="pref_title_vcard">Отправить через vCard</string>
   <string name="pref_title_wake_up_screen">Включать экран</string>
@@ -394,6 +400,7 @@
   <string name="received_label">"Получено: "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Получатель: "</string>
+  <string name="recipients_over_size">Получателей слишком много.</string>
   <string name="recording_failed">"Невозможно записать"</string>
   <string name="refill_now">Пополнить</string>
   <string name="refresh">Обновить</string>
@@ -500,6 +507,10 @@
   <string name="stick">Закрепить</string>
   <string name="stick_conversation">Закрепить выбранный диалог</string>
   <string name="sticked_conversation">Выбранный диалог уже закреплен</string>
+  <string name="storage_dialog_attachments">Mms вложений:</string>
+  <string name="storage_dialog_available_space">Доступно места:</string>
+  <string name="storage_dialog_database">База данных:</string>
+  <string name="storage_dialog_mms_size">Размер Mms:</string>
   <string name="storage_limits_activity">Пределы хранилища</string>
   <string name="storage_limits_message">Ограничить количество сообщений в диалоге?</string>
   <string name="storage_limits_setting">Установить ограничения</string>

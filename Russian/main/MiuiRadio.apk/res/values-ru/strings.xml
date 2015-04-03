@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="access_history">Доступ истории</string>
+  <string name="action_item_delete">Удалить</string>
   <string name="add_favorite">Новое</string>
   <string name="app_name">Радио</string>
   <string name="app_to_share">выберите приложение, чтобы поделиться</string>
@@ -17,6 +18,7 @@
   <string name="category_tone_quality">КАЧЕСТВО</string>
   <string name="channel_off">Эта программа недоступна</string>
   <string name="click_to_play">Нет программы для воспроизведения</string>
+  <string name="confirm_delete_history_text">Удалить выбранные элементы?</string>
   <string name="device_connected">Подключено</string>
   <string name="device_not_connected">Нет соединения</string>
   <string name="dialog_title_download_quality">Качество загрузки</string>
@@ -45,6 +47,7 @@
   <string name="loading_broadcasting">загрузка подкаста...</string>
   <string name="loading_hint">Загрузка...</string>
   <string name="local_list_item_history">История</string>
+  <string name="local_program">Локальные программы</string>
   <string name="metered_alert">Предупреждение</string>
   <string name="metered_alert_msg">Использование мобильной передачи данных может повлечь дополнительные списания вашим оператором.</string>
   <string name="metered_allow">Продолжить</string>
@@ -57,6 +60,7 @@
   <string name="no_display_channel_text">Нет каналов</string>
   <string name="no_display_history_text">Нет истории</string>
   <string name="no_display_other_text">Нет результатов</string>
+  <string name="no_download_text">Не загружать</string>
   <string name="no_network_button_radio">Использовать FM радио</string>
   <string name="no_network_button_refresh">Обновить</string>
   <string name="no_network_text">"Нет подключения к сети."</string>

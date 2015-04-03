@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="upload_log">Отправка отчета</string>
+    <string name="upload_log_failed">Ошибка отправки</string>
+    <string name="upload_log_success">Отправлено</string>
+    <string name="upload_log_title">Отправить диагностический отчет?</string>
+    <string name="uploading_logs">Отправка отчета</string>
+    <string name="you_are_in_mobile_network">Вы используете мобильную передачу данных, будте внимательны!</string>
     <string name="Folders">Папки</string>
     <string name="abc_action_bar_home_description">Домой</string>
     <string name="abc_action_bar_up_description">Вверх</string>

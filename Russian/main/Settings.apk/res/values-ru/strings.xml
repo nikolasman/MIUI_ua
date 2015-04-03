@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="agps_roaming_dia">"Использование A-GPS в роуминге может увеличить использование мобильных данных. Ваш оператор может взимать дополнительные сборы"</string>
+    <string name="agps_roaming_dia_title">Использовать A-GPS в роуминге</string>
+    <string name="agps_roaming_summary">Использование A-GPS в роуминге может вызвать дополнительный расход заряда</string>
+    <string name="bluetooth_unlock_state_disconnected">Отключено</string>
+    <string name="bluetooth_unlock_state_key_error">Ошибка ключа</string>
+    <string name="bluetooth_unlock_state_label">Статус:</string>
+    <string name="bluetooth_unlock_state_ok">Успешно</string>
+    <string name="bluetooth_unlock_state_too_far">Не хватате</string>
+    <string name="crypt_keeper_failed_title">Расшифровка неудачна</string>
     <string name="Xposed_summary">Дополнительные сервисы MIUI</string>
     <string name="Xposed_title">Xposed</string>
     <string name="a1">Экран</string>
@@ -1886,6 +1895,7 @@
     <string name="se_route_ese">Встроенный безопасный элемент</string>
     <string name="se_route_uicc">Безопасный элемент на SIM-карте</string>
     <string name="search_launcher">Рабочий стол</string>
+    <string name="search_settings_summary">Управление параметрами поиска и истории</string>
     <string name="security_enable_widgets_disabled_summary">Отключено администратором</string>
     <string name="security_enable_widgets_title">Включить виджеты</string>
     <string name="security_keyguard_category_name">Блокировка экрана</string>
@@ -2038,13 +2048,19 @@
     <string name="status_bar_settings_custom_carrier">Изменить имя оператора</string>
     <string name="status_bar_settings_custom_notification">Управление уведомлениями</string>
     <string name="status_bar_settings_custom_wifi_name">Изменить имя Wi-Fi</string>
+    <string name="status_bar_settings_enable_notification">Разрешить уведомления</string>
     <string name="status_bar_settings_expandable_under_keyguard">Доступ на экране блокировки</string>
     <string name="status_bar_settings_long_click_sort">Удерживайте для сортировки</string>
     <string name="status_bar_settings_no_carrier">Не установлено</string>
     <string name="status_bar_settings_notification_bar">Панель уведомлений</string>
+    <string name="status_bar_settings_notification_led">Световой индикатор</string>
+    <string name="status_bar_settings_notification_sound_vibrate">Звук &amp; вибрация</string>
     <string name="status_bar_settings_show_carrier">Показывать имя оператора</string>
     <string name="status_bar_settings_show_carrier_summary">Только на экране блокировки</string>
     <string name="status_bar_settings_show_flow_info">Показывать поток</string>
+    <string name="status_bar_settings_show_home_message">Значок приложения</string>
+    <string name="status_bar_settings_show_keyguard_notification">Показать плавающие уведомления</string>
+    <string name="status_bar_settings_show_keyguard_notification_summary">Показать плавающие уведомления на экране блокировки и в других местах</string>
     <string name="status_bar_settings_show_network_speed">Показывать скорость сети</string>
     <string name="status_bar_settings_show_notificationBar_notification">Показывать в панели уведомлений</string>
     <string name="status_bar_settings_show_notification_icon">Иконки уведомлений</string>
@@ -2833,14 +2849,5 @@
     <string name="zone_auto_summaryOn">Использование часового пояса сети</string>
     <string name="zone_list_menu_sort_alphabetically">Упорядочить по алфавиту</string>
     <string name="zone_list_menu_sort_by_timezone">Упорядочить по часовому поясу</string>
-<string name="agps_roaming">A-GPS в роуминге</string>
-     <string name="agps_roaming_dia">"Использование A-GPS в роуминге может увеличить использование мобильных данных. Ваш оператор может взимать дополнительные сборы"</string>
-     <string name="agps_roaming_dia_title">Использовать A-GPS в роуминге</string>
-     <string name="agps_roaming_summary">Использование A-GPS в роуминге может вызвать дополнительный расход заряда</string>
-     <string name="bluetooth_unlock_state_disconnected">Отключено</string>
-     <string name="bluetooth_unlock_state_key_error">Ошибка ключа</string>
-     <string name="bluetooth_unlock_state_label">Статус:</string>
-     <string name="bluetooth_unlock_state_ok">Успешно</string>
-     <string name="bluetooth_unlock_state_too_far">Не хватате</string>
-     <string name="crypt_keeper_failed_title">Расшифровка неудачна</string>
+    <string name="agps_roaming">A-GPS в роуминге</string>
 </resources>

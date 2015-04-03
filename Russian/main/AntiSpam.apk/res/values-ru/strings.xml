@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="mark_number_banking">Страховая</string>
-  <string name="mark_number_fraud">Мошенничество</string>
-  <string name="mark_number_sell">Соцопрос</string>
-  <string name="mark_number_setting_guide_content1">Блокировать звонки от отправленных номеров?</string>
-  <string name="mark_number_setting_guide_content2">Автоматическая блокировка звонков от номеров отправленых другими пользователями</string>
-  <string name="mark_number_setting_guide_content3">Отправляемый номер: %1$s. Вы хотите блокировать звонки от номеров %2$s?</string>
-  <string name="mark_number_setting_guide_forward">Черный список</string>
-  <string name="mark_number_setting_guide_title">Блокировка номеров</string>
   <string name="ACaddnumcontent">Введите префикс</string>
   <string name="ACaddnumtitle">Добавить префикс телефона в белый список</string>
   <string name="AD_ALLOW">Разрешить рекламу</string>
@@ -57,6 +49,10 @@
   <string name="address_choose_hint">Регионы: %1$s, %2$s, %3$d.</string>
   <string name="addwhitelist">В белый список</string>
   <string name="all_address_choose_hint">Все регионы</string>
+  <string name="antispam_notificaiton_type_show_all">Отображать всегда</string>
+  <string name="antispam_notificaiton_type_show_except_blacklist">При блокировке не из черного списка</string>
+  <string name="antispam_notificaiton_type_show_none">Не отображать уведомления</string>
+  <string name="antispam_notification_setting_title">Уведомления черного списка</string>
   <string name="app_name">Черный список</string>
   <string name="backsound_set_hint">Установить сигнал блокировки на \"%s\"?</string>
   <string name="baidu_thanks">Поддержка: Baidu</string>
@@ -148,7 +144,15 @@
   <string name="mark_meal">Доставка еды</string>
   <string name="mark_meal_block">Отмечено как доставка еды</string>
   <string name="mark_number_agent">Агент</string>
+  <string name="mark_number_banking">Страховая</string>
+  <string name="mark_number_fraud">Мошенничество</string>
   <string name="mark_number_info">"Вызовы будут блокироваться только от номеров из выбранных категорий"</string>
+  <string name="mark_number_sell">Соцопрос</string>
+  <string name="mark_number_setting_guide_content1">Блокировать звонки от отправленных номеров?</string>
+  <string name="mark_number_setting_guide_content2">Автоматическая блокировка звонков от номеров отправленых другими пользователями</string>
+  <string name="mark_number_setting_guide_content3">Отправляемый номер: %1$s. Вы хотите блокировать звонки от номеров %2$s?</string>
+  <string name="mark_number_setting_guide_forward">Черный список</string>
+  <string name="mark_number_setting_guide_title">Блокировка номеров</string>
   <string name="mark_sell">Маркетинг</string>
   <string name="mark_sell_block">Отмечено как маркетинг</string>
   <string name="marked_by_others">%d пользователи отметили как</string>

@@ -132,6 +132,9 @@
     <string name="progress_title_checking">Проверка обновлений…</string>
     <string name="reboot">Перезагрузка</string>
     <string name="reboot_to_new_system">Перезагрузка в новую систему</string>
+    <string name="recovery_failed_msg">"Устройство не имеет достаточно памяти для входа в режим восстановления и обновления вашей системы. Попробуйте использовать Mi PC Suite: http://zhushou.xiaomi.com"</string>
+    <string name="recovery_failed_notification_msg">"Не могу войти в режим восстановления"</string>
+    <string name="recovery_failed_title">Используйте Mi PC Suite для обновления системы</string>
     <string name="repeat">Повтор</string>
     <string name="set_auto">Автоматический режим</string>
     <string name="set_auto_msg">При выходе новой версии прошивка будет загружаться по сети Wi-Fi и устанавливаться автоматически</string>

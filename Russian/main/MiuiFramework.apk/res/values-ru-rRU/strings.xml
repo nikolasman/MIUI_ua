@@ -76,6 +76,7 @@
     <string name="screen_on_proximity_sensor_hint">Принудительный выход: нажмите кнопки \"Назад\"+\"Громкость +\"</string>
     <string name="screen_on_proximity_sensor_summary">Не закрывайте верхнюю часть телефона</string>
     <string name="screen_on_proximity_sensor_title">Предотвращение случайных нажатий</string>
+    <string name="screen_paper_mode_enter_toast">Режим чтения включен. Вы можете включить  или выключить функцию в настройках.</string>
     <string name="screen_rotation_freeze_message">Поворот экрана заблокирован</string>
     <string name="select">Выбрать</string>
     <string name="select_all">Выбрать все</string>

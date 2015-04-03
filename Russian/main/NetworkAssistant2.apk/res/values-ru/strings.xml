@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="add_miservice_dialog_content">"%s требует от вас добавить MIUI service framework в список исключений. Вы можете получать уведомления из встроенных приложений MIUI и других приложений сторонних разработчиков."</string>
   <string name="apn_exception_title">Проверка конфигурации APN</string>
   <string name="arrearage_exception_summary">"Ваш оператор советует пополнить вам счет"</string>
   <string name="arrearage_exception_title">Низкий баланс</string>

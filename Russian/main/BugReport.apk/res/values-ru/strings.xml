@@ -60,6 +60,7 @@
     <string name="menu_attach_screenshot">Присоединить скриншот</string>
     <string name="menu_copy">Копировать</string>
     <string name="menu_discard">Отменить</string>
+    <string name="network_disconnected">Нет сети</string>
     <string name="network_err">Не удается подключиться к сети</string>
     <string name="network_unavailable_dialog_button_ok">ОК</string>
     <string name="network_unavailable_dialog_content">Ваш отчет будет отправлен, как только сеть будет доступна</string>
@@ -90,6 +91,7 @@
     <string name="submit_dialog_cancel">Отмена</string>
     <string name="submit_dialog_confirm">Продолжить</string>
     <string name="submit_dialog_content">"Ваш отчет с журналом ошибок и изображениями, отправятся на Mi сервера."</string>
+    <string name="submit_dialog_not_wifi_content">"Ваши отзывы, вместе с журналом ошибок и прикрепленными изображениями будут отправлены, когда ваше устройство подключится к беспроводной сети."</string>
     <string name="submit_dialog_title">Отправить отчет Xiaomi</string>
     <string name="suggestion_description">Введите текст</string>
     <string name="suggestion_problem1">Подробно опишите предложение…</string>
@@ -100,11 +102,13 @@
     <string name="title_nonsystem_app">Другие приложения</string>
     <string name="title_system_app">MIUI приложения</string>
     <string name="toast_description_required">Отчет не может быть пустым</string>
+    <string name="toast_feedback_collect_store">Сбор журнала…</string>
     <string name="toast_feedback_network_unavailable">Не удается подключиться к интернету</string>
     <string name="toast_feedback_pending_wlan">Ваш отчет будет отправлен при подключении к сети Wi-Fi</string>
     <string name="toast_feedback_submitted">Ваш отчет успешно отправлен</string>
     <string name="toast_feedback_submitting">Отправка…</string>
     <string name="toast_feedbackservice_in_submit">Отправка предыдущих отчетов…</string>
+    <string name="toast_fill_brackets">Пожалуйста, заполните в скобках</string>
     <string name="toast_network_unavailable">"Не оправлено. Нет подключения к сети."</string>
     <string name="toast_pending_log_collection">Сбор логов…</string>
     <string name="toast_report_copied_to_clipboard">Отчет скопирован в буфер обмена</string>
