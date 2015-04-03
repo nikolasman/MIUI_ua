@@ -2054,7 +2054,7 @@
     <string name="status_bar_settings_no_carrier">Не установлено</string>
     <string name="status_bar_settings_notification_bar">Панель уведомлений</string>
     <string name="status_bar_settings_notification_led">Световой индикатор</string>
-    <string name="status_bar_settings_notification_sound_vibrate">Звук &amp; вибрация</string>
+    <string name="status_bar_settings_notification_sound_vibrate">Звук и вибрация</string>
     <string name="status_bar_settings_show_carrier">Показывать имя оператора</string>
     <string name="status_bar_settings_show_carrier_summary">Только на экране блокировки</string>
     <string name="status_bar_settings_show_flow_info">Показывать поток</string>

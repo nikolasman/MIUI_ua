@@ -34,9 +34,9 @@
     <string name="cloud_back_up_interval_short">1 час</string>
     <string name="cloud_back_up_network_unavailable">"Невозможно удалить. Подключитесь к Wi-Fi и попробуйте снова."</string>
     <string name="cloud_back_up_open_info">"Делать резервную копию рабочего стола каждый %1$s при подключении к Wi-Fi\nПоследняя копия: %2$s"</string>
-    <string name="cloud_back_up_open_info_no_backuptime">Делать резервную копию рабочего стола каждый %1$s при подключении к Wi-Fi</string>
+    <string name="cloud_back_up_open_info_no_backuptime">Делать резервную копию рабочего стола каждые %1$s при подключенном Wi-Fi</string>
     <string name="cloud_back_up_remove_success">Копия удалена</string>
-    <string name="cloud_back_up_title">Копия Рабочего стола</string>
+    <string name="cloud_back_up_title">Рабочий стол</string>
     <string name="cloud_backup_dialog_title">Резервная копия с Mi Cloud</string>
     <string name="cloud_find_device">Поиск устройства</string>
     <string name="cloud_space_upgrade_message">Нажмите для получения %s Гб места в Mi Облако</string>
