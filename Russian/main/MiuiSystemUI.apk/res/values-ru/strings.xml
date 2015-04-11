@@ -241,4 +241,8 @@
   <string name="user_guide_for_notification">При получении нового уведомления, можно раскрыть панель состояния для получения дополнительных сведений.</string>
   <string name="user_guide_for_toggle">Список переключателей можно прокручивать по горизонтали.</string>
   <string name="user_guide_for_toggle_list">Нажмите, чтобы настроить список переключателей.</string>
+  <string name="vpn_text">Нажмите для настройки.</string>
+  <string name="vpn_text_long">Подключено к %s. Нажмите для информации.</string>
+  <string name="vpn_title">VPN активно</string>
+  <string name="vpn_title_long">Подключение к VPN используя %s</string>
 </resources>

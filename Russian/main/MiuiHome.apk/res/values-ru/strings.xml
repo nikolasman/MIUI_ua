@@ -40,8 +40,9 @@
     <string name="cant_remove_system_app">Невозможно удалить системное приложение</string>
     <string name="choose_wallpaper">Выбрать обои</string>
     <string name="chooser_wallpaper">Выбрать обои из</string>
-    <string name="confirm_btn_label">ОК</string>
     <string name="cloud_app_restore_title">Ожидание</string>
+    <string name="configure_wallpaper">Настройки</string>
+    <string name="confirm_btn_label">ОК</string>
     <string name="current_preview">Просмотр</string>
     <string name="current_wallpaper">Выбранные</string>
     <string name="custom_wallpaper_picker">Еще</string>
@@ -72,6 +73,7 @@
     <string name="failed_to_drop">Не удалось переместить</string>
     <string name="failed_to_drop_widget_invalid">Недопустимый виджет</string>
     <string name="failed_to_drop_widget_nospace">Нет свободного места</string>
+    <string name="failed_to_load_image">"Невозможно загрузить изображение"</string>
     <string name="folder_name">Папка</string>
     <string name="frame_load_failed">Не удалось загрузить фоторамку</string>
     <string name="free_style_apps_title">Выберите приложение</string>
@@ -150,6 +152,7 @@
     <string name="menu_wallpaper">Обои</string>
     <string name="menu_workspace_preview">Режим просмотра</string>
     <string name="mi_wallpaper">Mi Обои</string>
+    <string name="mtzgadget_missing_text">"Больше не поддерживается. Добавьте снова"</string>
     <string name="multi_selecting_tips">Нажмите на иконки</string>
     <string name="online_wallpaper">Онлайн</string>
     <string name="out_of_space">На этом экране нет свободного места</string>
