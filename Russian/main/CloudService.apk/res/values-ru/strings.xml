@@ -3,6 +3,7 @@
     <string name="access_denied">Доступ запрещен</string>
     <string name="account">Аккаунт</string>
     <string name="activate">Активировать</string>
+    <string name="activate_number_change_dialog_message">Выбрать отображаемый номер. При VoIP вызове, вызываемый абонент увидит этот номер</string>
     <string name="activating">Активация…</string>
     <string name="alert_notif_title_dspt">Синхронизировать данные?</string>
     <string name="antispam_sync">Черный список</string>
@@ -205,7 +206,9 @@
     <string name="mx_dspt">Облачные сообщения</string>
     <string name="mx_dspt_provision">Облачные сообщения позволяют пользователям MIUI обмениваться сообщениями бесплатно</string>
     <string name="mx_dspt_provision_privacy">"Сервис может запрашивать ваш номер телефона. Ваш оператор может взимать плату за SMS для активации этого сервиса.\nЭта функция шифрует и загружает ID устройства на сервер Xiaomi."</string>
+    <string name="mx_dspt_provision_with_voip">Звоните другим пользователям MIUI бесплатно, спользуя интернет соединения.Вы можете включить и выключить эту услугу в настройках.</string>
     <string name="mx_sub_dspt_provision">Облачные сообщения</string>
+    <string name="mx_sub_dspt_provision_with_voip">Интернет-вызовы</string>
     <string name="next">Далее</string>
     <string name="noRemind">Отмена</string>
     <string name="no_sim">Нет SIM карты</string>
@@ -291,6 +294,7 @@
     <string name="vcode">Проверочный код</string>
     <string name="verify">Проверить</string>
     <string name="view_storage_title">Место в Mi Облако</string>
+    <string name="voip_choose_sim">Выберите номер для активации Mi Voice</string>
     <string name="wifi">Wi-Fi</string>
     <string name="wifi_disconnected">Сеть Wi-Fi недоступна</string>
     <string name="wifi_sync">Синхронизация по Wi-Fi</string>

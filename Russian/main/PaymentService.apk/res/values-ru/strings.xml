@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="menu_lock">Блокировка</string>
+    <string name="menu_qa">FAQ</string>
+    <string name="menu_shotcut">На рабочий стол</string>
+    <string name="shurtcut_create_success">Создать ссылку</string>
     <string name="app_name">MiCredits</string>
     <string name="balance_payment">%1$s MiCredits</string>
     <string name="bankcall_bank_account">Банковская карта:</string>

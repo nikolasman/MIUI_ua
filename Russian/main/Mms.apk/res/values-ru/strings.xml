@@ -515,6 +515,7 @@
   <string name="storage_limits_message">Ограничить количество сообщений в диалоге?</string>
   <string name="storage_limits_setting">Установить ограничения</string>
   <string name="storage_limits_setting_dismiss">Нет ограничений</string>
+  <string name="storage_unavailable">Нет места</string>
   <string name="subject_hint">Тема</string>
   <string name="subject_label">"Тема: "</string>
   <string name="text_in_popup_saved_to_clipboard">Редактируемый текст сохранен в буфер обмена</string>

@@ -89,6 +89,7 @@
     <string name="menu_title_download_current_rom">Скачать полную прошивку</string>
     <string name="menu_title_pick_rom_file">Выбрать файл прошивки</string>
     <string name="menu_title_recovery">Перезагрузка в Recovery</string>
+    <string name="miui_BBS">" "<a href="http://bbs.miui.com">Перейти на форум MIUI</a>" "</string>
     <string name="miui_summary_has_new_version">"  доступно обновление  "</string>
     <string name="miui_summary_no_new_version">Нет обновлений</string>
     <string name="miui_summary_now_version">Включите интернет для обновления</string>
@@ -132,6 +133,7 @@
     <string name="progress_title_checking">Проверка обновлений…</string>
     <string name="reboot">Перезагрузка</string>
     <string name="reboot_to_new_system">Перезагрузка в новую систему</string>
+    <string name="recovery_failed_button">OK</string>
     <string name="recovery_failed_msg">"Устройство не имеет достаточно памяти для входа в режим восстановления и обновления вашей системы. Попробуйте использовать Mi PC Suite: http://zhushou.xiaomi.com"</string>
     <string name="recovery_failed_notification_msg">"Не могу войти в режим восстановления"</string>
     <string name="recovery_failed_title">Используйте Mi PC Suite для обновления системы</string>
@@ -202,6 +204,19 @@
     <string name="validate_pkg_failed_msg">Загруженная прошивка не с официального сайта. Рекомендуем скачать повторно.</string>
     <string name="validate_pkg_failed_title">Ошибка проверки</string>
     <string name="view_upgrade_tutorial">Показать справку</string>
+    <string name="vote_beta">Beta Feedback Program</string>
+    <string name="vote_error1">"Похоже, что вы не член Beta Feedback Program"</string>
+    <string name="vote_error2">"Невозможно отправить отзыв.\nОбновите устройство и попробуйте снова"</string>
+    <string name="vote_error3">"Невозможно войти. Попробуйте снова."</string>
+    <string name="vote_error4">Вы уже отправили отзыв</string>
+    <string name="vote_error5">"Что-то не так.\nНевозможно отправить отзыв"</string>
+    <string name="vote_error_nonetwork">"Не подключения к сети"</string>
+    <string name="vote_experience">Опыт на форуме</string>
+    <string name="vote_hint">Получить 20 очков достижений на форуме MIUI</string>
+    <string name="vote_join">Голосовать</string>
+    <string name="vote_not_recommend">"Не рекомендуется"</string>
+    <string name="vote_recommend">Рекомендуем это обновление</string>
+    <string name="vote_submit">Отправить</string>
     <string name="weekly_build">еженедельная</string>
     <string name="worst_update">3. Худшее изменение</string>
 </resources>
