@@ -1307,7 +1307,7 @@
     <string name="permlab_updateBatteryStats">Статистика батареи</string>
     <string name="permlab_updateLock">Обновления</string>
     <string name="permlab_useCredentials">Использование данных аккаунтов</string>
-    <string name="permlab_use_sip">Интернет вызовы</string>
+    <string name="permlab_use_sip">Интернет-вызовы</string>
     <string name="permlab_vibrate">Управление вибрацией</string>
     <string name="permlab_wakeLock">Предотвращение спящего режима</string>
     <string name="permlab_writeApnSettings">Настройки APN</string>

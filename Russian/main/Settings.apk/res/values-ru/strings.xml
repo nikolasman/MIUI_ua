@@ -44,7 +44,7 @@
     <string name="accelerometer_title">Автоповорот экрана</string>
     <string name="access_control_app_entry_multiple">Открыть %s</string>
     <string name="access_control_app_entry_single">Открыть приложение</string>
-    <string name="access_control_need_password">"Приложение %s защищено"</string>
+    <string name="access_control_need_password">"Приложение %s защищено\r\n"</string>
     <string name="access_control_need_to_unlock">Введите пароль</string>
     <string name="access_control_no_back_footer">Нажмите [icon] для выхода</string>
     <string name="access_control_password_title">Использовать пароль</string>

@@ -459,7 +459,7 @@
     <string name="label_duplicate_count">(%1$d)</string>
     <string name="label_no_duplicate_contacts">На данный момент нет дубликатов контактов</string>
     <string name="label_notes">Примечания</string>
-    <string name="label_sip_address">Интернет вызов</string>
+    <string name="label_sip_address">Интернет-вызов</string>
     <string name="launcherDialer">Телефон</string>
     <string name="listCustomView">Контакты в пользовательском виде</string>
     <string name="listFoundAllContactsZero">Нет контактов</string>

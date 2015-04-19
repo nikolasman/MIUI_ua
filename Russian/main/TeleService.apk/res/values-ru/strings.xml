@@ -1017,7 +1017,7 @@
     <string name="sip_call_options_entry_1">Для всех вызовов</string>
     <string name="sip_call_options_entry_2">Только для SIP вызовов</string>
     <string name="sip_call_options_entry_3">Спрашивать при каждом вызове</string>
-    <string name="sip_call_options_title">Использование интернет вызовов</string>
+    <string name="sip_call_options_title">Использование интернет-вызовов</string>
     <string name="sip_call_options_title_single_sim">Настройки интернет-вызовов</string>
     <string name="sip_call_options_wifi_only_entry_1">Для всех вызовов</string>
     <string name="sip_call_options_wifi_only_title">Только при активном Wi-Fi</string>
@@ -1066,7 +1066,7 @@
     <string name="sum_fdn_manage_list">Управление списком фиксированного набора</string>
     <string name="sum_gsm_call_settings">Дополнительные настройки только для вызовов GSM</string>
     <string name="sum_hide_caller_id">Количество скрытых в исходящих звонках</string>
-    <string name="sum_internet_call">Настройки, связанные с Интернет Вызовом</string>
+    <string name="sum_internet_call">Настройки, связанные с интернет-вызовом</string>
     <string name="sum_loading_settings">Загрузка настроек…</string>
     <string name="sum_search_femtocell_networks">Выбрать femtocell вручную</string>
     <string name="sum_search_networks">Поиск всех доступных сетей</string>

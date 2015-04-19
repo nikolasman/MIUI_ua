@@ -775,7 +775,7 @@
     <string name="simContacts_title">Выберите контакты для импорта</string>
     <string name="sim_manage_call_via">Вызов через</string>
     <string name="sim_manage_indicator_3g">3G</string>
-    <string name="sim_manage_sipcall">Интернет вызов</string>
+    <string name="sim_manage_sipcall">Интернет-вызов</string>
     <string name="sim_ndp_dismiss_text">Закрыть</string>
     <string name="sim_ndp_unlock_text">Разблокировать</string>
     <string name="sim_permanently_locked">Из-за ввода неправильного кода PUK2 свыше 10 раз SIM-карта полностью заблокирована</string>
